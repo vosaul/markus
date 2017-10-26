@@ -1,6 +1,6 @@
 ---
 layout: casino
-title: Bitcasino.io: Erfahrungen / Test; Betrug, Abzocke oder seriös?
+title: Bitcasino.io
 permalink: /bitcasino-io-erfahrungen-test-betrug-oder-serios/
 ---
 
