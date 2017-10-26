@@ -1,7 +1,7 @@
 ---
 layout: casino
 title: Bitcasino.io: Erfahrungen / Test; Betrug, Abzocke oder seriös?
-permalink: /bitstarz-erfahrungen-test-betrug-oder-serios/
+permalink: /bitcasino-io-erfahrungen-test-betrug-oder-serios/
 ---
 
 <strong>Bitcasino.io</strong> ist als einer der bekanntesten Anbieter am Markt seit langem im Fokus von Spielern und Neuspielern. Ob das Bitcoin-Casino legitim und sauber arbeitet, dem "Provably fair"-Modell folgt oder reine Abzocke, Betrug und als unseriös einzustufen ist, soll im folgenden Test erläutert werden.
