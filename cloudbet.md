@@ -17,5 +17,3 @@ permalink: /cloudbet-erfahrungen-test-betrug-oder-serios/
 <strong>Bonus bei Cloudbet</strong>: Der maximale Einzahlungsbonus beträgt fünf Bitcoins (5 BTC) bei 100% für die Ersteinzahlung.
 
 <strong>Provably fair?</strong> Achtung: Cloudbet ist noch nicht offiziell als “Provably fair” geprüft worden. Ein relativ guter Ruf des Casinos gewährleistet jedoch die nötige Sicherheit.
-
-<a rel="nofollow" target="_blank" href="http://bitcoincasinodeutsch.de/go/link/cloudbet/" class="myButton">jetzt Bonus bei Cloudbet sichern</a>
