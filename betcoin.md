@@ -1,6 +1,6 @@
 ---
 layout: casino
-title: Betcoin – BTC Poker Erfahrungen: Betrug, Abzocke oder seriös?
+title: Betcoin
 permalink: /betcoin-ag-btc-poker-erfahrungen-betrug-abzocke-oder-serios/
 ---
 
