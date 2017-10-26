@@ -1,6 +1,6 @@
 ---
 layout: casino
-title: Bitstarz
+title: Bitstarz: Erfahrungen / Test; Betrug, Abzocke oder seriös?
 permalink: /bitstarz-erfahrungen-test-betrug-oder-serios/
 ---
 
