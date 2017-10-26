@@ -1,6 +1,6 @@
 ---
 layout: casino
-title: Cloudbet
+title: Cloudbet: Erfahrungen / Test; Betrug, Abzocke oder seriös?
 permalink: /cloudbet-erfahrungen-test-betrug-oder-serios/
 ---
 
