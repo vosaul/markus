@@ -1,6 +1,6 @@
 # Site settings
 title: BitcoinCasinoDeutsch.de - gute BTC-Casinos, die deutsch sprechen
-email: rezeption@bitcoincasinodeutsch.de
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   Testberichte, Meinungen und Erfahrungen rund um deutschsprachige Casinos, die Bitcoin akzeptieren
 baseurl: "" # the subpath of your site, e.g. /blog/
