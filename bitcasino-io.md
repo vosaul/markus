@@ -17,5 +17,3 @@ permalink: /bitcasino-io-erfahrungen-test-betrug-oder-serios/
 <strong>Bonus bei Bitcasino.io</strong>: Der maximale Einzahlungsbonus beträgt einen Bitcoin (1 BTC) und es gibt 100% für die Ersteinzahlung. Die zweite Einzahlung wird noch mit 50% Bonus belohnt, alle darauf folgenden Echtgeldeinzahlungen erhalten ein Plus von 25% auf die Einzahlungssumme.
 
 <strong>Provably fair?</strong> Achtung: Bitcasino.io ist noch nicht offiziell als "Provably fair" geprüft worden. Der gute Ruf des Casinos gewährleistet jedoch die nötige Sicherheit.
-
-<a rel="nofollow" target="_blank" href="http://bitcoincasinodeutsch.de/go/link/bitcasino-io/" class="myButton">jetzt Bonus bei Bitcasino.io sichern</a>
