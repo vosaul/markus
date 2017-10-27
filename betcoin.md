@@ -4,7 +4,7 @@ title: Betcoin
 permalink: /betcoin-ag-btc-poker-erfahrungen-betrug-abzocke-oder-serios/
 ---
 
-BitcoinCasinoDeutsch.de hat die BTC-Poker-Räume und Tische von Betcoin.ag</a> getestet. Fazit / tl;dr: ein echt guter Anbieter, den wir mit gutem Gewissen empfehlen können.
+BitcoinCasinoDeutsch.de hat die BTC-Poker-Räume und Tische von Betcoin.ag getestet. Fazit / tl;dr: ein echt guter Anbieter, den wir mit gutem Gewissen empfehlen können.
 
 Es gibt einen "Player Chat", bei dem man sich mit den anderen Pokerspielern unterhalten kann. Das Niveau ist "variabel" ;-)
 
