@@ -6,7 +6,7 @@ permalink: /betchain-erfahrungen-test-betrug-oder-serios/
 
 <strong>Betchain</strong> ist eines der älteren BTC-Casinos am Markt. Als eines der ersten Spielbanken mit der digitalen Währung hat sich der anscheinend in Deutschland sitzende Anbieter schon relativ früh den Status "Provably fair" gesichert und ist damit eindeutig als seriös einzustufen.
 
-<strong>tl;dr (too long, did not read)</strong>: Betchain arbeitet transparent, sauber und basiert nicht auf Abzocke. Es wird nach dem offiziell anerkannten “Provably fair”-Prinzip betrieben und ist damit eindeutig kein Betrug und als seriöses Online-Casino mit BTC-Einzahlung und BTC-Auszahlung einzustufen.
+<strong>tl;dr (too long, did not read)</strong>: Betchain arbeitet transparent, sauber und basiert nicht auf Abzocke. Es wird nach dem offiziell anerkannten "<a href="http://bitcoincasinodeutsch.de/provably-fair/">Provably fair</a>"-Prinzip betrieben und ist damit eindeutig kein Betrug und als seriöses Online-Casino mit BTC-Einzahlung und BTC-Auszahlung einzustufen.
 
 <strong>Verfügbare Sprachen der Plattform</strong>: Das Bitcoin-Casino ist auf Deutsch, <span style="font-size: 16px;">Englisch, Polnisch, </span><span style="font-size: 16px;">Portugiesisch, Holländisch (Niederländisch), </span><span style="font-size: 16px;">Griechisch, Spanisch, Italienisch </span>und Schwedisch verfügbar. Dies gilt sowohl für die Plattform, als auch für den Website-Bereich mit FAQ und Hilfe-Sektor.
 
