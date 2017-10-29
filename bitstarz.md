@@ -6,7 +6,7 @@ permalink: /bitstarz-erfahrungen-test-betrug-oder-serios/
 
 <strong>Bitstarz</strong> hieß früher Bitstars und ist ein relativ bekanntes und angesehenes Bitcoin-Casino.
 
-<strong>tl;dr (too long, did not read)</strong>: Bitstarz arbeitet sauber und basiert nicht auf Betrug. Es wird nach dem offiziell anerkannten "Provably fair"-Prinzip betrieben und ist damit eindeutig kein Betrug, keine Abzocke und als seriöses Online-Casino mit BTC-Einzahlung und BTC-Auszahlung einzustufen.
+<strong>tl;dr (too long, did not read)</strong>: Bitstarz arbeitet sauber und basiert nicht auf Betrug. Es wird nach dem offiziell anerkannten "<a href="http://bitcoincasinodeutsch.de/provably-fair/">Provably fair</a>"-Prinzip betrieben und ist damit eindeutig kein Betrug, keine Abzocke und als seriöses Online-Casino mit BTC-Einzahlung und BTC-Auszahlung einzustufen.
 
 <strong>Verfügbare Sprachen der Plattform</strong>: Das Bitcoin-Casino ist auf Englisch und Schwedisch verfügbar. Dies gilt sowohl für die Plattform, als auch für den Website-Bereich mit FAQ und Hilfe-Sektor.
 
