@@ -9,4 +9,4 @@ url: "https://bitcoincasinodeutsch.de" # the base hostname & protocol for your s
 markdown: kramdown
 theme: cayman
 
-include: ["_includes"]
+include: ["_redirects"]
