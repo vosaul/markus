@@ -17,3 +17,5 @@ permalink: /bitstarz-erfahrungen-test-betrug-oder-serios/
 <strong>Bonus bei Bitstarz</strong>: Der maximale Einzahlungsbonus beträgt einen Bitcoin (1 BTC) und es gibt 100% für die Ersteinzahlung. Zusätzlich kann man sich als Einzahlungsbonus 180 kostenlose Spins am einarmigen Banditen sichern. Für Folgeeinzahlungen (Einzahlung 1 bis n) gibt es variable Boni, die tagesaktuell auf der Website eingesehen werden können. Insgesamt und vergleichbar stellt Bitstarz ein relativ gutes Bonusangebot bereit.
 
 <strong>Provably fair?</strong> Bitstarz (früher: Bitstars) ist offiziell als “Provably fair” geprüft worden. Gemeinsam mit dem guten Ruf des Casinos lässt sich damit festhalten: Bitstarz ist definitiv kein Betrug oder Abzocke. Die Seriösität können wir aus Erfahrungen und einem Test bestätigen.
+
+<a class="btn btn-primary" href="https://bitcoincasinodeutsch.de/get-bonus/bitstarz" rel="nofollow" target="_blank">Jetzt Bonus bei Bitstarz erhalten</a>
