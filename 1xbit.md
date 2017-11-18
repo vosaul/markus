@@ -19,3 +19,5 @@ permalink: /1xbit-erfahrungen-test-betrug-oder-serios/
 <strong>Bonus bei Cloudbet</strong>: Der maximale Einzahlungsbonus beträgt einen Bitcoin (1 BTC) bei 100% (gilt nur für die Ersteinzahlung).
 
 <strong>Provably fair?</strong> Bei 1xBit sind nur die Dice-Spiele "provably fair".
+
+<button type="button" class="btn btn-primary btn-lg btn-block"><a href="https://bitcoincasinodeutsch.de/get-bonus/1xbit">Jetzt Bonus bei 1xbit erhalten</a></button>
