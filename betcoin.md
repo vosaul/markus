@@ -37,3 +37,6 @@ Und es gibt einen VIP Player's Club:
 <img src="http://bitcoincasinodeutsch.de/images/vip-btc-online-poker-662x1024.jpg">
 
 All in :-) all können wir sagen: Betcoin.ag ist nach unserer Erfahrung her auf keinen Fall Betrug, Abzocke oder ähnliches, sondern einfach ein gutes Bitcoin Casino mit BTC-Poker-Raum.
+
+<a class="btn btn-primary" href="https://bitcoincasinodeutsch.de/get-bonus/betcoin">Jetzt Bonus bei Betcoin erhalten</a>
+
