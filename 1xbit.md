@@ -20,4 +20,4 @@ permalink: /1xbit-erfahrungen-test-betrug-oder-serios/
 
 <strong>Provably fair?</strong> Bei 1xBit sind nur die Dice-Spiele "provably fair".
 
-<a class="btn btn-primary" href="https://bitcoincasinodeutsch.de/get-bonus/1xbit">Jetzt Bonus bei 1xbit erhalten</a>
+<a class="btn btn-primary" href="https://bitcoincasinodeutsch.de/get-bonus/1xbit" rel="nofollow" target="_blank">Jetzt Bonus bei 1xbit erhalten</a>
