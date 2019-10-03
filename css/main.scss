@@ -48,8 +48,7 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
-    @import "compass/css3";
+        "syntax-highlighting";
 
 // More practical CSS...
 // using mobile first method (IE8,7 requires respond.js polyfill https://github.com/scottjehl/Respond)
@@ -59,19 +58,19 @@ $breakpoint-alpha: 480px; // adjust to your needs
 .rwd-table {
   margin: 1em 0;
   min-width: 300px; // adjust to your needs
-  
+
   tr {
     border-top: 10px solid #ddd;
     border-bottom: 10px solid #ddd;
   }
-  
+
   th {
-    display: none; // for accessibility, use a visually hidden method here instead! Thanks, reddit!   
+    display: none; // for accessibility, use a visually hidden method here instead! Thanks, reddit!
   }
-  
+
   td {
-    display: block; 
-    
+    display: block;
+
     &:first-child {
       padding-top: .5em;
     }
@@ -87,32 +86,32 @@ $breakpoint-alpha: 480px; // adjust to your needs
       width: 6.5em; // magic number :( adjust according to your own content
       display: inline-block;
       // end options
-      
+
       @media (min-width: $breakpoint-alpha) {
         display: none;
       }
     }
   }
-  
+
   th, td {
     text-align: left;
-    
+
     @media (min-width: $breakpoint-alpha) {
       display: table-cell;
       padding: .25em .5em;
-      
+
       &:first-child {
         padding-left: 0;
       }
-      
+
       &:last-child {
         padding-right: 0;
       }
     }
 
   }
-  
-  
+
+
 }
 
 
@@ -145,19 +144,18 @@ h1 {
   }
   th, td {
     margin: .5em 1em;
-    @media (min-width: $breakpoint-alpha) { 
-      padding: 1em !important; 
+    @media (min-width: $breakpoint-alpha) {
+      padding: 1em !important;
     }
   }
   th, td:before {
     color: #dd5;
   }
 }
-    
-    
+
+
 ;
 
-@import "compass/css3";
 
 // More practical CSS...
 // using mobile first method (IE8,7 requires respond.js polyfill https://github.com/scottjehl/Respond)
@@ -167,19 +165,19 @@ $breakpoint-alpha: 480px; // adjust to your needs
 .rwd-table {
   margin: 1em 0;
   min-width: 300px; // adjust to your needs
-  
+
   tr {
     border-top: 10px solid #ddd;
     border-bottom: 10px solid #ddd;
   }
-  
+
   th {
-    display: none; // for accessibility, use a visually hidden method here instead! Thanks, reddit!   
+    display: none; // for accessibility, use a visually hidden method here instead! Thanks, reddit!
   }
-  
+
   td {
-    display: block; 
-    
+    display: block;
+
     &:first-child {
       padding-top: .5em;
     }
@@ -195,32 +193,32 @@ $breakpoint-alpha: 480px; // adjust to your needs
       width: 6.5em; // magic number :( adjust according to your own content
       display: inline-block;
       // end options
-      
+
       @media (min-width: $breakpoint-alpha) {
         display: none;
       }
     }
   }
-  
+
   th, td {
     text-align: left;
-    
+
     @media (min-width: $breakpoint-alpha) {
       display: table-cell;
       padding: .25em .5em;
-      
+
       &:first-child {
         padding-left: 0;
       }
-      
+
       &:last-child {
         padding-right: 0;
       }
     }
 
   }
-  
-  
+
+
 }
 
 
@@ -253,8 +251,8 @@ h1 {
   }
   th, td {
     margin: .5em 1em;
-    @media (min-width: $breakpoint-alpha) { 
-      padding: 1em !important; 
+    @media (min-width: $breakpoint-alpha) {
+      padding: 1em !important;
     }
   }
   th, td:before {

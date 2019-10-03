@@ -7,6 +7,5 @@ url: "https://bitcoincasinodeutsch.de" # the base hostname & protocol for your s
 
 # Build settings
 markdown: kramdown
-theme: cayman
 
 include: ["_redirects"]
