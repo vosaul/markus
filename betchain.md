@@ -1,6 +1,6 @@
 ---
 layout: casino
-title: BetChain
+title: BetChain - Betrug, Erfahrungen, Test: seri&ouml;s (2019)
 permalink: /betchain-erfahrungen-test-betrug-oder-serios/
 ---
 
