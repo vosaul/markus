@@ -20,10 +20,10 @@ Die Bonus-Struktur von BetChain im Detail - auch der zweite und dritte Einzahlun
 <ul>
   <li>1. Einzahlungsbonus: 100% Willkommensbonus bis zu 1 BTC/200 EUR + 200 Freispiele (ausgestellt mit 10 FS pro Tag für 20 aufeinanderfolgende Tage)</li>
   <li>2. Einzahlungsbonus: 50% zweiter Einzahlungsbonus bis zu 0,5 BTC/€500</li>
-  <li>3. Einzahlungsbonus:75% Dritter Einzahlungsbonus bis zu 0,5 BTC/€500</li>
+  <li>3. Einzahlungsbonus: 75% Dritter Einzahlungsbonus bis zu 0,5 BTC/€500</li>
   <li>High Roller Bonus: 75% High Roller Bonus - Einzahlungen von 2 BTC, €500, 30,000₽, A/C$ 600, 4.640 NOK oder 7.000 ZAR</li>
   <li>Wöchentliche Boni: 10% Cashback Dienstag - für Einzahlungen am Montag - Bonus bis zu 0,1BTC / €50 / 2.500 ₽</li>
-  <li>25% Reload Mittwoch - auf die erste Einzahlung des Tages - Bonus bis zu 0,25 BTC, €25, 1.500₽, $40 CAD/AUD, 230 NOK oder 350 ZAR + 25 Freispiele</li>
+  <li>25% Reload Mittwoch: auf die erste Einzahlung des Tages - Bonus bis zu 0,25 BTC, €25, 1.500₽, $40 CAD/AUD, 230 NOK oder 350 ZAR + 25 Freispiele</li>
 </ul>
 Zusammengefasst lässt sich feststellen, dass das Spektrum an Boni bei BetChain enorm spielerfreundlich ist.<br />
 
