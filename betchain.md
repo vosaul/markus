@@ -26,6 +26,7 @@ Die Bonus-Struktur von BetChain im Detail - auch der zweite und dritte Einzahlun
   <li>25% Reload Mittwoch - auf die erste Einzahlung des Tages - Bonus bis zu 0,25 BTC, €25, 1.500₽, $40 CAD/AUD, 230 NOK oder 350 ZAR + 25 Freispiele</li>
 </ul>
 Zusammengefasst lässt sich feststellen, dass das Spektrum an Boni bei BetChain enorm spielerfreundlich ist.<br />
+
 <strong>Angebotene Spiele</strong>: BetChain bietet auf seiner Online-Plattform gängige Spiele wie Kartenspiele, Casual Games, Keno, Video Poker, Poker, Roulette, Slots und Tischspiele.
 
 <strong>Provably fair?</strong> BetChain ist offiziell als “Provably fair” geprüft worden. Gemeinsam mit dem guten Ruf des Casinos lässt sich damit festhalten: BetChain ist definitiv kein Betrug oder Abzocke. Die Seriösität können wir aus Erfahrungen und einem Test bestätigen.
