@@ -14,7 +14,17 @@ permalink: /betchain-erfahrungen-test-betrug-oder-serios/
 
 <strong>Standort des Anbieters</strong>: laut vieler Indizien und Quellen ist der Standort von BetChain in Deutschland zu finden. Bestätigen konnten wir dies bisher nicht.
 
-<strong>Bonus bei BetChain</strong>: Der maximale Einzahlungsbonus beträgt einen halben Bitcoin (0,5 BTC) und es gibt 110% für die Ersteinzahlung. Zusätzlich gibt es einen sog. "High Holder Bonus" von 100% und bis zu 3 BTC. Darüberhinaus gibt es einen sog. "Slot Bonus" von maximal 0,1 BTC bzw 300%.
+<strong>Bonus bei BetChain</strong>: Der maximale Einzahlungsbonus beträgt einen Bitcoin (1 BTC) und es gibt 100% für die Ersteinzahlung. Zusätzlich gibt es einen sog. "High Holder Bonus" von 100% und bis zu 3 BTC. Darüberhinaus gibt es einen sog. "Slot Bonus" von maximal 0,1 BTC bzw 300%.
+
+Die Bonus-Struktur von BetChain im Detail - auch der zweite und dritte Einzahlungsbetrag wird entsprechend vergütet:
+<ul>
+  <li>1. Einzahlungsbonus: 100% Willkommensbonus bis zu 1 BTC/200 EUR + 200 Freispiele (ausgestellt mit 10 FS pro Tag für 20 aufeinanderfolgende Tage)</li>
+  <li>2. Einzahlungsbonus: 50% zweiter Einzahlungsbonus bis zu 0,5 BTC/€500</li>
+  <li>3. Einzahlungsbonus:75% Dritter Einzahlungsbonus bis zu 0,5 BTC/€500</li>
+</ul>
+High Roller Bonus: 75% High Roller Bonus - Einzahlungen von 2 BTC, €500, 30,000₽, A/C$ 600, 4.640 NOK oder 7.000 ZAR
+Wöchentliche Boni: 10% Cashback Dienstag - für Einzahlungen am Montag - Bonus bis zu 0,1BTC / €50 / 2.500 ₽
+                             25% Reload Mittwoch - auf die erste Einzahlung des Tages - Bonus bis zu 0,25 BTC, €25, 1.500₽, $40 CAD/AUD, 230 NOK oder 350 ZAR + 25 Freispiele
 
 <strong>Angebotene Spiele</strong>: BetChain bietet auf seiner Online-Plattform gängige Spiele wie Kartenspiele, Casual Games, Keno, Video Poker, Poker, Roulette, Slots und Tischspiele.
 
