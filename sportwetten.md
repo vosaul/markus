@@ -8,7 +8,7 @@ Sportwetten-Anbieter, die Bitcoin (BTC) als Einzahlung und Auszahlung akzeptiere
 
 <strong>1xbet</strong>
 
-<strong>1xbit</strong></strong>
+<strong>1xbit</strong>
 
 <strong>Cloudbet</strong>
 
