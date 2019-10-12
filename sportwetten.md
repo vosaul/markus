@@ -19,3 +19,21 @@ intertops
 1x2-Bet
 
 Sportsbet.io
+
+Bahigo
+
+NetBet
+
+tonybet
+
+22bet
+
+Coinbet24
+
+Melbet
+
+5dimes
+
+Nitrogensports
+
+Betcoin.ag
