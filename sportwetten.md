@@ -37,3 +37,15 @@ Sportwetten-Anbieter, die Bitcoin (BTC) als Einzahlung und Auszahlung akzeptiere
 <strong>Nitrogensports</strong>
 
 <strong>Betcoin.ag</strong>
+
+<strong>OneHash</strong>
+
+<strong>Pinnacle.com</strong>
+
+<strong>Bovada.lv</strong>
+
+<strong>EGB.com</strong>
+
+<strong>Sportsbetting.ag</strong>
+
+<strong>Bitcoinrush</strong>
