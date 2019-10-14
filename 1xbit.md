@@ -16,8 +16,55 @@ permalink: /1xbit-erfahrungen-test-betrug-oder-serios/
 
 <strong>Standort des Anbieters</strong>: Russland.
 
-<strong>Bonus bei Cloudbet</strong>: Der maximale Einzahlungsbonus beträgt einen Bitcoin (1 BTC) bei 100% (gilt nur für die Ersteinzahlung).
+<strong>Bonus bei 1xbit</strong>: Der maximale Einzahlungsbonus beträgt einen Bitcoin (1 BTC) bei 100% (gilt nur für die Ersteinzahlung). Dieser Bonus ist branchenüblich, jedoch finden Spieler bei 1xbit eine enorm große Auswahl an Spielmöglichkeiten. Dadurch wird der Bonus besonders attraktiv, da er nicht nur auf Slots oder Roulette fokussiert ist, sondern auch für BTC-Sportwetten gilt. Damit hebt sich der Anbieter mit Sitz in Curaçao im Markt deutlich ab und zieht High Roller, sowie normaler Gambler und Zocker gleichermaßen an.
 
-<strong>Provably fair?</strong> Bei 1xBit sind nur die Dice-Spiele "provably fair".
+Wir geben 1xbit eine sehr gute Bewertung, was Support, Spielvielfalt und Zuverlässigkeit in der Auszahlung anbetrifft.
+
+<strong>Provably fair?</strong> Bei 1xBit sind nur die Dice-Spiele "provably fair". Allerdings ist das bei Sportwetten und weiteren Angeboten irrelevant, da es sich nicht um Glücksspiel, sondern Tippspiele realer Events handelt. So kann der User bei 1xbit auch auf folgende Events, Ereignisse, Sportarten und Ligen wetten:
+
+Bundesliga / Fussball
+Tennis
+Basketball
+Eishockey
+Volleyball
+Tischtennis
+eSport
+American Football
+Badminton
+Beachsoccer
+Billard
+Bowls
+Boxen / UFC
+Brettspiele (z.B. "Go")
+Cricket
+Curling
+Darts
+Formel 1
+Futsal 4x4
+Gaelic Football
+Golf
+Handball
+Hurling
+Kabaddi
+Kampfsport
+Lotto
+Motorradsport
+Netball
+Pferderennen (auch Ante Post)
+Poker
+Politik
+Rugby
+Snooker
+Streetball
+Surfen
+TV-Spiele
+Toto
+Traben (Ante Post)
+Trabrennen
+UFC
+Unihockey
+Wasserball
+Wetter
+Windhundrennen
 
 <a class="btn btn-primary" href="https://bitcoincasinodeutsch.de/get-bonus/1xbit" rel="nofollow" target="_blank">Jetzt Bonus bei 1xbit erhalten</a>
