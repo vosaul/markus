@@ -16,7 +16,7 @@ permalink: /1xbit-erfahrungen-test-betrug-oder-serios/
 
 <strong>Standort des Anbieters</strong>: Russland (Betreiber, Support). Anhand der E-Mails lässt sich das nachvollziehen, da augenscheinlich ein russischsprachiges Outlook oder Thunderbird (E-Mail-Client) verwendet wird. Der offizielle Sitz und die Lizenz liegen jedoch in Curaçao.
 
-<strong>Bonus bei 1xbit</strong>: Der maximale Einzahlungsbonus beträgt einen Bitcoin (1 BTC) bei 100% (gilt nur für die Ersteinzahlung). Dieser Bonus ist branchenüblich, jedoch finden Spieler bei 1xbit eine enorm große Auswahl an Spielmöglichkeiten. Dadurch wird der Bonus besonders attraktiv, da er nicht nur auf Slots oder Roulette fokussiert ist, sondern auch für BTC-Sportwetten gilt. Damit hebt sich der Anbieter mit Sitz in Curaçao im Markt deutlich ab und zieht High Roller, sowie normaler Gambler und Zocker gleichermaßen an.
+<strong>Bonus bei 1xbit</strong>: Der maximale Einzahlungsbonus beträgt einen Bitcoin (1 BTC) bei 100% (gilt nur für die Ersteinzahlung). Dieser Bonus ist branchenüblich, jedoch finden Spieler bei 1xbit eine enorm große Auswahl an Spielmöglichkeiten. Dadurch wird der Bonus besonders attraktiv, da er nicht nur auf Slots oder Roulette fokussiert ist, sondern auch für <a href="https://bitcoincasinodeutsch.de/sportwetten/">BTC-Sportwetten</a> gilt. Damit hebt sich der Anbieter mit Sitz in Curaçao im Markt deutlich ab und zieht High Roller, sowie normaler Gambler und Zocker gleichermaßen an.
 
 Wir geben 1xbit eine sehr gute Bewertung, was Support, Spielvielfalt und Zuverlässigkeit in der Auszahlung anbetrifft.
 
