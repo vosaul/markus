@@ -22,49 +22,49 @@ Wir geben 1xbit eine sehr gute Bewertung, was Support, Spielvielfalt und Zuverl√
 
 <strong>Provably fair?</strong> Bei 1xBit sind nur die Dice-Spiele "provably fair". Allerdings ist das bei Sportwetten und weiteren Angeboten irrelevant, da es sich nicht um Gl√ºcksspiel, sondern Tippspiele realer Events handelt. So kann der User bei 1xbit auch auf folgende Events, Ereignisse, Sportarten und Ligen wetten:
 
-Bundesliga / Fussball
-Tennis
-Basketball
-Eishockey
-Volleyball
-Tischtennis
-eSport
-American Football
-Badminton
-Beachsoccer
-Billard
-Bowls
-Boxen / UFC
-Brettspiele (z.B. "Go")
-Cricket
-Curling
-Darts
-Formel 1
-Futsal 4x4
-Gaelic Football
-Golf
-Handball
-Hurling
-Kabaddi
-Kampfsport
-Lotto
-Motorradsport
-Netball
-Pferderennen (auch Ante Post)
-Poker
-Politik
-Rugby
-Snooker
-Streetball
-Surfen
-TV-Spiele
-Toto
-Traben (Ante Post)
-Trabrennen
-UFC
-Unihockey
-Wasserball
-Wetter
+Bundesliga / Fussball,
+Tennis,
+Basketball,
+Eishockey,
+Volleyball,
+Tischtennis,
+eSport,
+American Football,
+Badminton,
+Beachsoccer,
+Billard,
+Bowls,
+Boxen / UFC,
+Brettspiele (z.B. "Go"),
+Cricket,
+Curling,
+Darts,
+Formel 1,
+Futsal 4x4,
+Gaelic Football,
+Golf,
+Handball,
+Hurling,
+Kabaddi,
+Kampfsport,
+Lotto,
+Motorradsport,
+Netball,
+Pferderennen (auch Ante Post),
+Poker,
+Politik,
+Rugby,
+Snooker,
+Streetball,
+Surfen,
+TV-Spiele,
+Toto,
+Traben (Ante Post),
+Trabrennen,
+UFC,
+Unihockey,
+Wasserball,
+Wetter,
 Windhundrennen
 
 <a class="btn btn-primary" href="https://bitcoincasinodeutsch.de/get-bonus/1xbit" rel="nofollow" target="_blank">Jetzt Bonus bei 1xbit erhalten</a>
