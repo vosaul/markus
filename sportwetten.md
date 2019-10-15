@@ -8,13 +8,13 @@ Sportwetten-Anbieter, die Bitcoin (BTC) als Einzahlung und Auszahlung akzeptiere
 
 <strong>1xbet</strong>
 
-<strong>1xbit</strong>
+<strong><a href="https://bitcoincasinodeutsch.de/1xbit-erfahrungen-test-betrug-oder-serios/">1xbit</a></strong>
 
-<strong>Cloudbet</strong>
+<strong><a href="https://bitcoincasinodeutsch.de/cloudbet-erfahrungen-test-betrug-oder-serios/">Cloudbet</a></strong>
 
 <strong>Betwinner</strong>
 
-<strong><strong>intertops</strong>
+<strong>intertops</strong>
 
 <strong>1x2-Bet</strong>
 
@@ -24,7 +24,7 @@ Sportwetten-Anbieter, die Bitcoin (BTC) als Einzahlung und Auszahlung akzeptiere
 
 <strong>NetBet</strong>
 
-<strong><strong>tonybet</strong>
+<strong>tonybet</strong>
 
 <strong>22bet</strong>
 
@@ -36,7 +36,7 @@ Sportwetten-Anbieter, die Bitcoin (BTC) als Einzahlung und Auszahlung akzeptiere
 
 <strong>Nitrogensports</strong>
 
-<strong>Betcoin.ag</strong>
+<strong><a href="https://bitcoincasinodeutsch.de/betcoin-ag-btc-poker-erfahrungen-betrug-abzocke-oder-serios/">Betcoin.ag</a></strong>
 
 <strong>OneHash</strong>
 
