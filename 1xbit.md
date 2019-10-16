@@ -8,11 +8,13 @@ permalink: /1xbit-erfahrungen-test-betrug-oder-serios/
 
 <strong>tl;dr (too long, did not read)</strong>: mit über 3500 Spielen und Sportwetten ist 1xBit ein ernstzunehmender Anbieter im BTC-Casino-Bereich. Allerdings sind nur die Dice-Games "<a href="http://bitcoincasinodeutsch.de/provably-fair/">provably fair</a>". Insgesamt auf keinen Fall eine Abzockbude oder Betrug. Der Bonus beträgt maximal 1 BTC und ist immer 100% auf den Einzahlungsbetrag. Der eingezahlte Bonus muss 40x gespielt werden, um ihn zu erhalten.
 
+Offizielle Website: <strong><a href="https://bitcoincasinodeutsch.de/get-bonus/1xbit">https://1xbit.com</a></strong>
+
 1xbit Bonus Code: <strong>1xb_13012</strong> (125% / max. 1 BTC)
 
 <strong>Verfügbare Sprachen der Plattform</strong>: neben Deutsch ist die Oberfläche auf enorm vielen anderen Sprachen verfügbar:
 
-<img src="http://bitcoincasinodeutsch.de/images/1xbit-languages.jpg">
+<a href="https://bitcoincasinodeutsch.de/get-bonus/1xbit"><img src="http://bitcoincasinodeutsch.de/images/1xbit-languages.jpg"></a>
 
 <strong>Verfügbare Währungen bei Einzahlungen und Auszahlungen</strong>: nur Bitcoin.
 
