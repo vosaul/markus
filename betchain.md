@@ -1,6 +1,7 @@
 ---
 layout: casino
 title: BetChain
+seotitle: BetChain Bonus & Erfahrungen; Test: Betrug? Seriös?
 permalink: /betchain-erfahrungen-test-betrug-oder-serios/
 ---
 
