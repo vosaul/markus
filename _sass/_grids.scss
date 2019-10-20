@@ -1,0 +1,22 @@
+.casino {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-column-gap: 20px;
+  &>* {
+    padding: 10px;
+  }
+}
+.casinos_header {
+  background: #000;
+  h5 {
+    color: #fff;
+    font-size: 1.1em;
+    font-weight: 700;
+  }
+}
+.casino_item {
+  background: #efefef;
+}
+.casino_item:nth-child(odd){
+  background: #f7f7f7;
+}

@@ -1,0 +1,107 @@
+title: 'Die besten Bitcoin-Casinos für Deutschland:'
+casinos_header:
+ - item: Anmelden
+ - item: Casino
+ - item: Dt.Site
+ - item: Dt.Support
+ - item: BCD-Rating
+ - item: Max. Bonus
+ - item: ProvablyFair
+ - item: '<a href="http://bitcoincasinodeutsch.de/provably-fair/">ProvablyFair</a>'
+casinos:
+  - casino: BetChain
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/betchain'
+    icon: images/icons/betchain.png
+
+    services: 'Slots, Spielautomaten, Video-Poker, Jackpot-Games'
+
+    languages:
+      icon: ok
+      list: Deutschsprachige Website
+
+    support:
+      icon: ok
+      descr: 'Dt. Support: help@betchain.com'
+
+    bcd_raiting:
+      value: 93
+      descr: 'Seit 2013 etabliertes BTC-Casino'
+
+    max_bonus:
+      value: 1
+      descr: +200 Free Spins
+
+    provably_fair:
+      icon: thumbs-up
+      descr: (Alle Spiele)
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+       - item: eur
+       - item: usd
+      descr: Optionale €-Einzahlung per Kreditkarte, paysafecard & andere
+
+  - casino: CryptoWild
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/cryptowild'
+    icon: images/icons/cryptowild.png
+
+    services: 'Live-Casino, Sportwetten, Slots, Dice, Games, Virtual Sports'
+
+    languages:
+      icon: ok
+      list: Sehr viele Sprachen
+
+    support:
+      icon: ok
+      descr: 'support@cryptowild.com'
+
+    bcd_raiting:
+      value: 99
+      descr: 'Die besten Casino Games, A+++ Support'
+
+    max_bonus:
+      value: 1
+      descr: 150% Match + 150 Free Spins
+
+    provably_fair:
+      icon: thumbs-up
+      descr: (Alle Spiele)
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr:
+  - casino: DasistCasino
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/dasistcasino'
+    icon: images/icons/dasistcasino.png
+
+    services: 'Live-Casino'
+
+    languages:
+      icon: ok
+      list: Deutsch, Englisch, Griechisch, Türkisch, Schwedisch
+
+    support:
+      icon: ok
+      descr: 'Deutsch, Englisch, Griechisch, Türkisch, Schwedisch'
+
+    bcd_raiting:
+      value: 98
+      descr: 'Made in Germany, nur hochwertige Spiele'
+
+    max_bonus:
+      value: 1.5
+      descr: + 100 Freispiele
+
+    provably_fair:
+      icon: thumbs-up
+      descr:
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr:

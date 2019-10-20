@@ -3,9 +3,14 @@ title: BitcoinCasinoDeutsch.de
 description: > # this means to ignore newlines until "baseurl:"
   Testberichte, Meinungen und Erfahrungen rund um deutschsprachige Casinos, die Bitcoin akzeptieren
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://bitcoincasinodeutsch.de" # the base hostname & protocol for your site
-
+#url: "https://bitcoincasinodeutsch.de" # the base hostname & protocol for your site
+url: "http://localhost:4000"
 # Build settings
 markdown: kramdown
 
 include: ["_redirects"]
+
+exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - node_modules/
