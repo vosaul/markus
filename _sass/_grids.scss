@@ -27,6 +27,12 @@
     color: #fff;
     font-size: 1.1em;
     font-weight: 700;
+    a {
+      &:hover {
+        color: yellow;
+        text-decoration: none;
+      }
+    }
   }
 }
 .casino_item {
