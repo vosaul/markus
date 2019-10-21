@@ -11,6 +11,7 @@
 }
 
 .site-title {
+    font-weight: 700;
     font-size: 26px;
     line-height: 56px;
     letter-spacing: -1px;
@@ -26,7 +27,7 @@
 .site-nav {
     float: right;
     line-height: 56px;
-
+    position: sticky;
     .menu-icon {
         display: none;
     }
@@ -34,7 +35,7 @@
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
-
+        font-weight: 700;
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 20px;
@@ -163,10 +164,6 @@
  */
 .page-content {
     padding: $spacing-unit 0;
-}
-
-.page-heading {
-    font-size: 20px;
 }
 
 .post-list {

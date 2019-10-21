@@ -29,7 +29,7 @@ casinos:
       descr: 'Seit 2013 etabliertes BTC-Casino'
 
     max_bonus:
-      value: 1
+      value: 1 BTC
       descr: +200 Free Spins
 
     provably_fair:
@@ -63,7 +63,7 @@ casinos:
       descr: 'Die besten Casino Games, A+++ Support'
 
     max_bonus:
-      value: 1
+      value: 1 BTC
       descr: 150% Match + 150 Free Spins
 
     provably_fair:
@@ -94,7 +94,7 @@ casinos:
       descr: 'Made in Germany, nur hochwertige Spiele'
 
     max_bonus:
-      value: 1.5
+      value: 1.5 BTC
       descr: + 100 Freispiele
 
     provably_fair:
@@ -104,4 +104,72 @@ casinos:
     auszahlung:
       currency:
        - item: bitcoin
+      descr:
+
+  - casino: Nitrogen Sports
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/nitrogen'
+    icon: images/icons/nitrogen_sports.png
+
+    services: 'Sportwetten, Casino, Poker'
+
+    languages:
+      icon: remove
+      list: Englisch
+
+    support:
+      icon: remove
+      descr: 'Englisch'
+
+    bcd_raiting:
+      value: 95
+      descr: 'Etablierter BTC-Buchmacher'
+
+    max_bonus:
+      value: Kein Bonus
+      descr: Sportwetten-Sonderaktionen
+
+    provably_fair:
+      icon: thumbs-up
+      descr:
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr:
+
+  - casino: Bitstarz
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/bitstarz'
+    icon: images/icons/bitstarz.png
+
+    services: 'Dice, (HD) Slots,
+Live Games, Jackpots,
+Table Games'
+
+    languages:
+      icon: remove
+      list: Englisch
+
+    support:
+      icon: remove
+      descr: 'Englisch'
+
+    bcd_raiting:
+      value: 94
+      descr: '600+ Games, A+ support'
+
+    max_bonus:
+      value: 1 BTC
+      descr: 100% Match, 40x Rollover, 190 Freespins
+
+    provably_fair:
+      icon: thumbs-up
+      descr:
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+       - item: eur
+       - item: usd
       descr:

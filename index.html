@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="home">
-  <h4>{{site.data.main.title}}</h4>
+  <h1>{{site.data.main.title}}</h1>
   <div class="casinos_grid">
     <div class="casino casinos_header">
       {% for title in site.data.main.casinos_header %}
@@ -46,40 +46,43 @@ layout: default
     </div>
     {% endfor %}
   </div>
-<hr>
-<section class="reviews">
-<h4>Testberichte:</h4>
-<ul>
-{% assign reviews = site.pages | where: "layout", "casino" %}
-{%- for file in reviews -%}
-<li>+++ <a href="{{file.permalink}}">{{file.title}}</a></li>
-{%- endfor -%}
 
-<hr>
-  <li><a href="http://bitcoincasinodeutsch.de/1xbit-erfahrungen-test-betrug-oder-serios/">1xBit</a></li>
- 	<li><a href="http://bitcoincasinodeutsch.de/bitcasino-io-erfahrungen-test-betrug-oder-serios/">Bitcasino.io</a></li>
-  	<li><a href="http://bitcoincasinodeutsch.de/betchain-erfahrungen-test-betrug-oder-serios/">Betchain</a></li>
- 	<li><a href="http://bitcoincasinodeutsch.de/cloudbet-erfahrungen-test-betrug-oder-serios/">Cloudbet</a></li>
-</ul>
-</section>
+  <hr>
 
-<h4>Bitcoin-Poker-Plattformen</h4>
-Der einzige <strong>BTC-Pokerraum-Anbieter</strong>, den wir aktuell mit gutem Gewissen empfehlen können:
-<ul>
- 	<li><a href="http://bitcoincasinodeutsch.de/betcoin-ag-btc-poker-erfahrungen-betrug-abzocke-oder-serios/">Betcoin.ag</a></li>
-</ul>
-  
-    <h2 class="page-heading">Bitcoin-Casino-News:</h1>
+  <section class="reviews">
+    <h2>Testberichte:</h2>
+    <ul class="casino">
+      {% assign reviews = site.pages | where: "layout", "casino" %}
+      {%- for file in reviews -%}
+      {% if file.tags contains 'pocker' %}
+      {% else %}
+      <li><a href="{{file.permalink}}">{{file.title}}</a></li>
+      {% endif %}
+      {%- endfor -%}
+    </ul>
+  </section>
+
+  <h2>Bitcoin-Poker-Plattformen</h2>
+  Der einzige <strong>BTC-Pokerraum-Anbieter</strong>, den wir aktuell mit gutem Gewissen empfehlen können:
+  <ul>
+        {%- for file in reviews -%}
+        {% if file.tags contains 'pocker' %}
+        <li><a href="{{file.permalink}}">{{file.title}}</a></li>
+        {% endif %}
+        {%- endfor -%}
+  </ul>
+{{site.tags.pocker}}
+
+  <h2>Bitcoin-Casino-News:</h2>
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+    </li>
     {% endfor %}
   </ul>
 

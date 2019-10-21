@@ -1,5 +1,6 @@
 ---
 layout: casino
+tags: [casino, pocker]
 title: Betcoin
 permalink: /betcoin-ag-btc-poker-erfahrungen-betrug-abzocke-oder-serios/
 ---
