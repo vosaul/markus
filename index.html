@@ -10,11 +10,12 @@ layout: default
       {% endfor %}
     </div>
     {% assign casinos = site.data.main.casinos %}
+    {% assign counter = 1 %}
     {% for casino in casinos %}
     <div class="casino casino_item">
       <a href="{{casino.link}}" class="icon"><img src="{{casino.icon}}" alt="casino"></a>
       <div class="services">
-        <h4><a href="{{casino.link}}">{{casino.casino}}</a></h4>
+        <h4><a href="{{casino.link}}">{{counter}}. {{casino.casino}}</a></h4>
         <p>{{casino.services}}</p>
       </div>
       <div class="lang">
@@ -44,6 +45,7 @@ layout: default
         <p>{{casino.auszahlung.descr}}</p>
       </div>
     </div>
+    {% assign counter = counter | plus: 1 %}
     {% endfor %}
   </div>
 

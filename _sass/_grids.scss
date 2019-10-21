@@ -20,6 +20,9 @@
 }
 .casinos_header {
   background: #000;
+  position: sticky;
+  top: 160px;
+  z-index: 5;
   h5 {
     color: #fff;
     font-size: 1.1em;
@@ -28,6 +31,10 @@
 }
 .casino_item {
   background: #efefef;
+  img {
+    width: 100%;
+    height: auto;
+  }
 }
 .casino_item:nth-child(odd){
   background: #f7f7f7;

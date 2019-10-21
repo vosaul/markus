@@ -173,3 +173,67 @@ Table Games'
        - item: eur
        - item: usd
       descr:
+
+  - casino: Bitcasino.io
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/bitcasino-io'
+    icon: images/icons/bitcasino-io.png
+
+    services: 'Lotterie, Live Casino, Sportwetten, Slots, Spielautomaten'
+
+    languages:
+      icon: ok
+      list: Deutsch, Englisch, Spanisch, Russisch, Japanisch, Chinesisch, Portugiesisch, Indonesisch
+
+    support:
+      icon: remove
+      descr: 'Englisch'
+
+    bcd_raiting:
+      value: 91
+      descr: 'Seit 2013 mit VIP-Area'
+
+    max_bonus:
+      value: 1 BTC
+      descr: 100 % Match, 35x Rollover
+
+    provably_fair:
+      icon: thumbs-up
+      descr:
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr:
+
+  - casino: Sportsbet.io
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/sportsbet-io'
+    icon: images/icons/sportsbet-io.png
+
+    services: '(Live-)Sportwetten, (Live-)Casino'
+
+    languages:
+      icon: remove
+      descr: 'Englisch'
+
+    support:
+      icon: remove
+      descr: 'Englisch'
+
+    bcd_raiting:
+      value: 90
+      descr: 'Top Sportwetten-Anbieter, Spielgeldmodus möglich (Casino)'
+
+    max_bonus:
+      value: 1 BTC
+      descr: Temporäre Aktionen
+
+    provably_fair:
+      icon: remove
+      descr:
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr:
