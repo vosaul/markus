@@ -625,3 +625,310 @@ Table Games'
       currency:
        - item: bitcoin
       descr: 
+
+  - casino: KingDice
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/kingdice'
+    icon: 'images/icons/kingdice.png'
+    services: Dice
+
+    languages:
+      icon: remove
+      list: 'Englisch'
+
+    support:
+      icon: remove
+      descr: 'Englisch'
+
+    bcd_raiting:
+      value: 76
+      descr: Etablierte Dice-Plattform
+
+    max_bonus:
+      value: Kein Bonus
+      descr: 
+
+    provably_fair:
+      icon: thumbs-up
+      descr: 
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr: 
+
+  - casino: Coinbet24
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/coinbet24'
+    icon: 'images/icons/coinbet24.png'
+    services: (Inplay-/Live-) Sportwetten, Live-Casino
+
+    languages:
+      icon: ok
+      list: 'Deutsch, Englisch, Türkisch, Spanisch, uvm.'
+
+    support:
+      icon: remove
+      descr: 'Englisch'
+
+    bcd_raiting:
+      value: 74
+      descr: Gute Qualität der Spiele
+
+    max_bonus:
+      value: 0.25 BTC
+      descr: 50% Match, 12x Rollover
+
+    provably_fair:
+      icon: thumbs-up
+      descr: 
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr: 
+
+  - casino: CryptoGames
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/cryptogames'
+    icon: 'images/icons/cryptogames.png'
+    services: Blackjack, Dice, Lotterie, Plinko, Roulette, Slots, Video Poker
+
+    languages:
+      icon: remove
+      list: 'Englisch'
+
+    support:
+      icon: remove
+      descr: 'Englisch'
+
+    bcd_raiting:
+      value: 72
+      descr: Geringer Hausvorteil (low house edge), aktiver Spieler-Chat, anonymes Spielen & Auszahlen
+    max_bonus:
+      value: Kein Bonus
+      descr: 
+
+    provably_fair:
+      icon: thumbs-up
+      descr: 
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr: 
+
+  - casino: OneHash
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/onehash'
+    icon: 'images/icons/onehash.png'
+    services: Dice, E-Sports, Sportwetten, Event-/Politik-Wetten
+
+    languages:
+      icon: remove
+      list: 'Englisch, Chinesisch, Spanisch, Portugiesisch, Russisch'
+
+    support:
+      icon: remove
+      descr: 'Englisch, Russisch'
+
+    bcd_raiting:
+      value: 72
+      descr: Große Auswahl an Finanzwetten & Sportwetten
+    max_bonus:
+      value: Kein Bonus
+      descr: 
+
+    provably_fair:
+      icon: thumbs-up
+      descr: 
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr: 
+
+  - casino: Bob Casino
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/bobcasino'
+    icon: 'images/icons/bobcasino.png'
+    services: Slots, Table Games, (Live-) Casino Games, Tournaments
+
+    languages:
+      icon: ok
+      list: 'Deutsch, Englisch, Russisch, Polnisch, Finnisch, Schwedisch, Norwegisch'
+
+    support:
+      icon: ok
+      descr: 'Deutsch, Englisch, Russisch, Polnisch, Finnisch, Schwedisch, Norwegisch'
+
+    bcd_raiting:
+      value: 71
+      descr: Unterhaltsames 420-friendly Casino
+    max_bonus:
+      value: 10 Freespins BTC
+      descr: ohne Anmeldung / No Deposit Bonus
+
+    provably_fair:
+      icon: thumbs-up
+      descr: 
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr: 
+
+  - casino: Oshi
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/oshi'
+    icon: 'images/icons/oshi.png'
+    services: Live Casino, Slots, Jackpots, Kartenspiele, Roulette, Blackjack
+
+    languages:
+      icon: remove
+      list: 'Englisch, Russisch, Portugiesisch'
+
+    support:
+      icon: remove
+      descr: 'Englisch, Russisch, Portugiesisch'
+
+    bcd_raiting:
+      value: 71
+      descr: High Roller VIP-Area, Tournaments
+
+    max_bonus:
+      value: 2 BTC
+      descr: Einzigartiger Bonus-Konfigurator für individuelle Boni
+
+    provably_fair:
+      icon: thumbs-up
+      descr: 
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr: 
+
+  - casino: PocketDice
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/pocketdice'
+    icon: 'images/icons/cryptogames.png'
+    services: Dice
+
+    languages:
+      icon: remove
+      list: 'Englisch'
+
+    support:
+      icon: remove
+      descr: 'Englisch'
+
+    bcd_raiting:
+      value: 70
+      descr: Etabliert seit 2014, Dice-Casino mit Bonus (selten), 1.67% Low House Edge (Hausvorteil)
+
+    max_bonus:
+      value: 1 BTC
+      descr: 100% Match, 100x Rollover	
+
+    provably_fair:
+      icon: thumbs-up
+      descr: 
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr: 
+
+  - casino: CoinRoyale
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/coinroyale'
+    icon: 'images/icons/coinroyale.png'
+    services: Dice, Baccarat, Blackjack, Roulette, Slots, Video Poker
+
+    languages:
+      icon: remove
+      list: 'Englisch'
+
+    support:
+      icon: remove
+      descr: 'Englisch'
+
+    bcd_raiting:
+      value: 68
+      descr: 2.00% House Edge (Hausvorteil)
+
+    max_bonus:
+      value: 1 BTC
+      descr: 100% Match, 35x Rollover
+
+    provably_fair:
+      icon: thumbs-up
+      descr: 
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr: 
+
+  - casino: SafeDice
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/safedice'
+    icon: 'images/icons/sd.png'
+    services: Dice
+
+    languages:
+      icon: remove
+      list: 'Englisch'
+
+    support:
+      icon: remove
+      descr: 'Englisch'
+
+    bcd_raiting:
+      value: 57
+      descr: 'Niedrigrekord House Edge: 0.5%'
+
+    max_bonus:
+      value: Kein Bonus
+      descr: 'Üblich bei Dice-Casinos'
+
+    provably_fair:
+      icon: thumbs-up
+      descr: 
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr: '& Monero'
+
+  - casino: BTC-Casino.io
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/bitcoin-casino.io'
+    icon: 'images/icons/bitcoin-casino-io.png'
+    services: Slots, Casino Games, Lotterie
+
+    languages:
+      icon: remove
+      list: 'Englisch, Italienisch, Russisch, Spanisch'
+
+    support:
+      icon: remove
+      descr: 'Englisch, Italienisch, Russisch, Spanisch'
+
+    bcd_raiting:
+      value: 51
+      descr: 'Niedrigrekord House Edge: 0.5%'
+
+    max_bonus:
+      value: 1 BTC
+      descr: 150% Match, 2nd Deposit 50%, other Deposits 25%
+
+    provably_fair:
+      icon: remove
+      descr: 
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr: 
