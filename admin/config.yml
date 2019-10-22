@@ -5,8 +5,8 @@ backend:
   branch: master
 #    - admin
 #    - editor
-#  name: github
-#  repo: vosaul/markus # Path to your GitHub repository
+  name: github
+  repo: vosaul/markus # Path to your GitHub repository
 media_folder: "images/uploads"
 public_folder: "images/uploads"
 collections:
