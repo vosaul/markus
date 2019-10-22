@@ -337,7 +337,7 @@ Table Games'
       descr: '+100 Freespins'
 
     provably_fair:
-      icon: thumb-up
+      icon: thumbs-up
       descr:
 
     auszahlung:
@@ -376,3 +376,252 @@ Table Games'
        - item: bitcoin
       descr:
 
+  - casino: VegasCasino.io
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/vegascasino-io'
+    icon: 'images/icons/vegas.png'
+    services: Casino & Live Casino Games
+
+    languages:
+      icon: remove
+      list: 'Englisch'
+
+    support:
+      icon: remove
+      descr: 'Englisch'
+
+    bcd_raiting:
+      value: 87
+      descr: '200+ HQ Casino Games'
+
+    max_bonus:
+      value: 1 BTC
+      descr: '1st Deposit 100% Match, 2nd Deposit Bonus 50% Match, Standard Bonus 25% Match'
+
+    provably_fair:
+      icon: remove
+      descr:
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr:
+
+  - casino: BitcoinPenguin
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/bitcoinpenguin'
+    icon: 'images/icons/bitcoinpenguin.png'
+    services: (Live-)Casino, (HD-) Slots, Craps, Video Poker, Blackjack, Baccarat
+
+    languages:
+      icon: remove
+      list: 'Englisch'
+
+    support:
+      icon: remove
+      descr: 'Englisch'
+
+    bcd_raiting:
+      value: 87
+      descr: 'Etabliertes BTC-Casino, häufige Sonderaktionen'
+
+    max_bonus:
+      value: 0.2 BTC
+      descr: '100% Match, 35x Rollover'
+
+    provably_fair:
+      icon: thumbs-up
+      descr:
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr: + Dodgecoin & Litecoin
+
+  - casino: RioBet
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/riobet'
+    icon: 'images/icons/riobet.png'
+    services: (Live-)Casino Games
+
+    languages:
+      icon: remove
+      list: 'Englisch, Russisch, Spanisch, Chinesisch, Schwedisch, Suomi'
+
+    support:
+      icon: remove
+      descr: 'Englisch, Russisch'
+
+    bcd_raiting:
+      value: 85
+      descr: 'Top Support & VIP-Rewards'
+
+    max_bonus:
+      value: 1 BTC
+      descr: '100% Match, 35x Rollover'
+
+    provably_fair:
+      icon: remove
+      descr: Nur Spiele von vertrauenswürdigen Marken
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+       - item: eur
+       - item: usd
+      descr: 
+
+  - casino: Bitsler
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/bitsler'
+    icon: 'images/icons/bitsler.png'
+    services: Dice, Roulette & weitere
+
+    languages:
+      icon: remove
+      list: 'Englisch'
+
+    support:
+      icon: remove
+      descr: 'Englisch'
+
+    bcd_raiting:
+      value: 85
+      descr: 'Sehr bekannt, viele Spieler im Chat'
+
+    max_bonus:
+      value: Kein Bonus
+      descr: 
+
+    provably_fair:
+      icon: thumbs-up
+      descr: 
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr: '& viele weitere Coins'
+
+  - casino: Betchan
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/betchan'
+    icon: 'images/icons/betchan.png'
+    services: (Live-)Casino Games
+
+    languages:
+      icon: remove
+      list: 'Englisch, Russisch, Schwedisch'
+
+    support:
+      icon: remove
+      descr: 'Englisch, Russisch, Schwedisch'
+
+    bcd_raiting:
+      value: 82
+      descr: 'Guter Live-Support, große Spielauswahl'
+
+    max_bonus:
+      value: 1 BTC
+      descr: 'ttraktive Boni für 2nd, 3rd und 4th Deposit und Monday Bonus'
+
+    provably_fair:
+      icon: thumbs-up
+      descr: 
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr: 
+
+  - casino: Primcedice
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/primcedice'
+    icon: 'images/icons/primcedice.png'
+    services: Dice (seit 2013)
+
+    languages:
+      icon: remove
+      list: 'Englisch & Russisch'
+
+    support:
+      icon: remove
+      descr: 'EEnglisch & Russisch'
+
+    bcd_raiting:
+      value: 97
+      descr: 'Beliebtestes BTC-Game'
+
+    max_bonus:
+      value: 501 uBTC
+      descr: Gratis
+
+    provably_fair:
+      icon: thumbs-up
+      descr: 
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr: 
+
+  - casino: Bitcoin.com
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/bitcoin-com'
+    icon: 'images/icons/bitcoin-com.png'
+    services: Video Poker, Blackjack, Roulette, Craps, Keno, Slots, Dice
+
+    languages:
+      icon: remove
+      list: 'Englisch'
+
+    support:
+      icon: remove
+      descr: 'Englisch'
+
+    bcd_raiting:
+      value: 79
+      descr: 'Vertrauenswürdige Marke, ohne Registrierung spielbar'
+
+    max_bonus:
+      value: Kein Bonus
+      descr: 
+
+    provably_fair:
+      icon: thumbs-up
+      descr: 
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr: 
+
+  - casino: Megadice
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/megadice'
+    icon: 'images/icons/megadice.png'
+    services: Dice, (HD-)Slots
+
+    languages:
+      icon: remove
+      list: 'Englisch'
+
+    support:
+      icon: remove
+      descr: 'Englisch'
+
+    bcd_raiting:
+      value: 79
+      descr: Bekanntes Dice Casino
+
+    max_bonus:
+      value: 100 Free Spins
+      descr: 25x Rollover
+
+    provably_fair:
+      icon: thumbs-up
+      descr: 
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr: 
