@@ -1,12 +1,13 @@
 # config.yml
 
-backend:
-  - name: git-gateway
-    branch: master
+#backend:
+#  name: git-gateway
+#  branch: master
 #    - admin
 #    - editor
-  - name: github
-    repo: vosaul/markus # Path to your GitHub repository
+backend:
+  name: github
+  repo: vosaul/markus
 media_folder: "images/uploads"
 public_folder: "images/uploads"
 collections:
