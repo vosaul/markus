@@ -312,3 +312,67 @@ Table Games'
     support:
       descr: Englisch
       icon: remove
+
+  - casino: '7Bit Casino'
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/7bit'
+    icon: 'images/icons/7bitcasino.png'
+
+    services: 'Live Casino, Slots, Jackpots, Table Games'
+
+    languages:
+      icon: remove
+      list: 'Englisch, Russisch, Französisch'
+
+    support:
+      icon: remove
+      descr: 'Englisch, Russisch, Französisch'
+
+    bcd_raiting:
+      value: 88
+      descr: '1000+ Spiele, 24/7 Live-Support'
+
+    max_bonus:
+      value: 2 BTC
+      descr: '+100 Freespins'
+
+    provably_fair:
+      icon: thumb-up
+      descr:
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr:
+
+  - casino: PlayAmo
+    order: 1
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/playamo'
+    icon: 'images/icons/playamo.png'
+    services: Slots, Table Games
+
+    languages:
+      icon: ok
+      list: 'Deutsch, Polnisch, Türkisch, Russisch, uvm'
+
+    support:
+      icon: ok
+      descr: 'Deutschsprachiger E-Mail-Support'
+
+    bcd_raiting:
+      value: 88
+      descr: 'Guter Ruf, etabliert, VIP-Programm'
+
+    max_bonus:
+      value: 2 BTC
+      descr: '+ 100 Freespins (50% Match, 50x Rollover, High Roller Bonus) oder 1 BTC + 100 Freespins (100% Match, 50x Rollover)'
+
+    provably_fair:
+      icon: remove
+      descr:
+
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr:
+
