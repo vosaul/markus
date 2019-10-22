@@ -1,7 +1,7 @@
-title: 'Die besten Bitcoin-Casinos für Deutschland:'
+title: 'Die besten Bitcoin-casinos für Deutschland:'
 casinos_header:
  - item: Anmelden
- - item: Casino
+ - item: casino
  - item: Dt.Site
  - item: Dt.Support
  - item: BCD-Rating
@@ -26,7 +26,7 @@ casinos:
 
     bcd_raiting:
       value: 93
-      descr: 'Seit 2013 etabliertes BTC-Casino'
+      descr: 'Seit 2013 etabliertes BTC-casino'
 
     max_bonus:
       value: 1 BTC
@@ -48,7 +48,7 @@ casinos:
     link: 'https://bitcoincasinodeutsch.de/get-bonus/cryptowild'
     icon: images/icons/cryptowild.png
 
-    services: 'Live-Casino, Sportwetten, Slots, Dice, Games, Virtual Sports'
+    services: 'Live-casino, Sportwetten, Slots, Dice, Games, Virtual Sports'
 
     languages:
       icon: ok
@@ -60,7 +60,7 @@ casinos:
 
     bcd_raiting:
       value: 99
-      descr: 'Die besten Casino Games, A+++ Support'
+      descr: 'Die besten casino Games, A+++ Support'
 
     max_bonus:
       value: 1 BTC
@@ -74,12 +74,12 @@ casinos:
       currency:
        - item: bitcoin
       descr:
-  - casino: DasistCasino
+  - casino: Dasistcasino
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/dasistcasino'
     icon: images/icons/dasistcasino.png
 
-    services: 'Live-Casino'
+    services: 'Live-casino'
 
     languages:
       icon: ok
@@ -111,7 +111,7 @@ casinos:
     link: 'https://bitcoincasinodeutsch.de/get-bonus/nitrogen'
     icon: images/icons/nitrogen_sports.png
 
-    services: 'Sportwetten, Casino, Poker'
+    services: 'Sportwetten, casino, Poker'
 
     languages:
       icon: remove
@@ -179,7 +179,7 @@ Table Games'
     link: 'https://bitcoincasinodeutsch.de/get-bonus/bitcasino-io'
     icon: images/icons/bitcasino-io.png
 
-    services: 'Lotterie, Live Casino, Sportwetten, Slots, Spielautomaten'
+    services: 'Lotterie, Live casino, Sportwetten, Slots, Spielautomaten'
 
     languages:
       icon: ok
@@ -211,7 +211,7 @@ Table Games'
     link: 'https://bitcoincasinodeutsch.de/get-bonus/sportsbet-io'
     icon: images/icons/sportsbet-io.png
 
-    services: '(Live-)Sportwetten, (Live-)Casino'
+    services: '(Live-)Sportwetten, (Live-)casino'
 
     languages:
       icon: remove
@@ -223,7 +223,7 @@ Table Games'
 
     bcd_raiting:
       value: 90
-      descr: 'Top Sportwetten-Anbieter, Spielgeldmodus möglich (Casino)'
+      descr: 'Top Sportwetten-Anbieter, Spielgeldmodus möglich (casino)'
 
     max_bonus:
       value: 1 BTC
@@ -238,7 +238,7 @@ Table Games'
        - item: bitcoin
       descr:
 
-  - Casino:
+  - casino: Cloudbet
     auszahlung:
       currency:
        - item: bitcoin
@@ -246,7 +246,6 @@ Table Games'
     bcd_raiting:
       descr: '89% Hohe Aktivität, etabliert, hohe Sicherheit'
       value: 89
-    casino: Cloudbet
     icon: /images/icons/cloudbet.png
     languages:
       icon: ok
@@ -259,7 +258,57 @@ Table Games'
     provably_fair:
       descr: 
       icon: remove
-    services: 'Live-)Sportwetten, (Live-)Casino'
+    services: 'Live-)Sportwetten, (Live-)casino'
+    support:
+      descr: Englisch
+      icon: remove
+
+  - casino: FortuneJack
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr: 
+    bcd_raiting:
+      descr: 'Viele Cryptos, viele Spiele, etabliert'
+      value: 89
+    icon: /images/icons/fortunejack.png
+    languages:
+      icon: ok
+      list: 'Englisch & Russisch'
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/fortunejack'
+    max_bonus:
+      descr: '110% Match, 35x Rollover'
+      value: 1 BTC
+    order: 1
+    provably_fair:
+      descr: 
+      icon: thumbs-up
+    services: 'Dice, Slots, Live Casino, Bingo, Keno'
+    support:
+      descr: Englisch & Russisch
+      icon: ok
+
+  - casino: mBit Casino
+    auszahlung:
+      currency:
+       - item: bitcoin
+      descr: 
+    bcd_raiting:
+      descr: 'Seit 2014 etabliert, anonymes Spielen, jedoch ID für Auszahlung nötig'
+      value: 89
+    icon: /images/icons/mBit-Casino.png
+    languages:
+      descr: Englisch
+      icon: remove
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/mbit'
+    max_bonus:
+      descr: '110% Match, 35x Rollover'
+      value: 1 BTC
+    order: 1
+    provably_fair:
+      descr: 
+      icon: remove
+    services: 'Slots, Jackpots, Video Poker, Roulette, Live Games'
     support:
       descr: Englisch
       icon: remove
