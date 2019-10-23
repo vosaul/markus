@@ -8,21 +8,21 @@
 backend:
   name: github
   repo: vosaul/markus
-media_folder: "images/uploads"
+media_folder: "images/icons"
 public_folder: "images/uploads"
 collections:
   - label: "Pages"
     name: "pages"
     files:
-
       - name: "casinos"
         label: "Casinos"
         file: "_data/main.yml"
         fields:
           - label: "casino"
             name: "Casino"
-            widget: "object"
-            create: true
+            widget: "list"
+            allow_add: true
+#            create: true
             fields:
               - { label: "casino", name: "casino", widget: "string"}
               - { label: "order", name: "order", widget: "number", default: 1, valueType: "int", step: 1 }
@@ -66,15 +66,17 @@ collections:
                   - {label: "currency", name: "currency", widget: "string", default: "bitcoin"}
                   - {label: "descr", name: "descr", widget: "string"}
 
-#      - name: "review"
-#        label: "Reviews"
-#        media_folder: "images/icons"
-#        fields:
-#          - { label: "permalink", name: "permalink", widget: "string", default: "/"}
-#          - { label: "slug", name: "slug", widget: "string"}
-#          - { label: "Layout", name: "layout", widget: "string", default: "casino" }
-#          - { label: "Title", name: "title", widget: "string" }
-#          - { label: "Publish Date", name: "date", widget: "datetime", required: false}
-#          - { label: "Body", name: "body", widget: "markdown" }
-#        slug: "{{slug}}"
+      - name: "review"
+        label: "Reviews"
+        folder: "/"
+        file: "betcoin.md"
+        media_folder: "images/icons"
+        fields:
+          - { label: "permalink", name: "permalink", widget: "string", default: "/"}
+          - { label: "slug", name: "slug", widget: "string"}
+          - { label: "Layout", name: "layout", widget: "string", default: "casino" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Publish Date", name: "date", widget: "datetime", required: false}
+          - { label: "Body", name: "body", widget: "markdown" }
+        slug: "{{slug}}"
       
