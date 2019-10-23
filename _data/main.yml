@@ -9,7 +9,7 @@ casinos_header:
  - item: ProvablyFair
  - item: '<a href="http://bitcoincasinodeutsch.de/provably-fair/">ProvablyFair</a>'
 casinos:
-  - casino: BetChain
+  - title: BetChain
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/betchain'
     icon: images/icons/betchain.png
@@ -43,7 +43,7 @@ casinos:
        - item: usd
       descr: Optionale €-Einzahlung per Kreditkarte, paysafecard & andere
 
-  - casino: CryptoWild
+  - title: CryptoWild
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/cryptowild'
     icon: images/icons/cryptowild.png
@@ -74,7 +74,7 @@ casinos:
       currency:
        - item: bitcoin
       descr:
-  - casino: Dasistcasino
+  - title: Dasistcasino
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/dasistcasino'
     icon: images/icons/dasistcasino.png
@@ -106,7 +106,7 @@ casinos:
        - item: bitcoin
       descr:
 
-  - casino: Nitrogen Sports
+  - title: Nitrogen Sports
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/nitrogen'
     icon: images/icons/nitrogen_sports.png
@@ -138,7 +138,7 @@ casinos:
        - item: bitcoin
       descr:
 
-  - casino: Bitstarz
+  - title: Bitstarz
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/bitstarz'
     icon: images/icons/bitstarz.png
@@ -174,7 +174,7 @@ Table Games'
        - item: usd
       descr:
 
-  - casino: Bitcasino.io
+  - title: Bitcasino.io
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/bitcasino-io'
     icon: images/icons/bitcasino-io.png
@@ -206,7 +206,7 @@ Table Games'
        - item: bitcoin
       descr:
 
-  - casino: Sportsbet.io
+  - title: Sportsbet.io
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/sportsbet-io'
     icon: images/icons/sportsbet-io.png
@@ -238,7 +238,7 @@ Table Games'
        - item: bitcoin
       descr:
 
-  - casino: Cloudbet
+  - title: Cloudbet
     auszahlung:
       currency:
        - item: bitcoin
@@ -263,7 +263,7 @@ Table Games'
       descr: Englisch
       icon: remove
 
-  - casino: FortuneJack
+  - title: FortuneJack
     auszahlung:
       currency:
        - item: bitcoin
@@ -288,7 +288,7 @@ Table Games'
       descr: Englisch & Russisch
       icon: ok
 
-  - casino: mBit Casino
+  - title: mBit Casino
     auszahlung:
       currency:
        - item: bitcoin
@@ -313,7 +313,7 @@ Table Games'
       descr: Englisch
       icon: remove
 
-  - casino: '7Bit Casino'
+  - title: '7Bit Casino'
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/7bit'
     icon: 'images/icons/7bitcasino.png'
@@ -345,7 +345,7 @@ Table Games'
        - item: bitcoin
       descr:
 
-  - casino: PlayAmo
+  - title: PlayAmo
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/playamo'
     icon: 'images/icons/playamo.png'
@@ -376,7 +376,7 @@ Table Games'
        - item: bitcoin
       descr:
 
-  - casino: VegasCasino.io
+  - title: VegasCasino.io
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/vegascasino-io'
     icon: 'images/icons/vegas.png'
@@ -407,7 +407,7 @@ Table Games'
        - item: bitcoin
       descr:
 
-  - casino: BitcoinPenguin
+  - title: BitcoinPenguin
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/bitcoinpenguin'
     icon: 'images/icons/bitcoinpenguin.png'
@@ -438,7 +438,7 @@ Table Games'
        - item: bitcoin
       descr: + Dodgecoin & Litecoin
 
-  - casino: RioBet
+  - title: RioBet
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/riobet'
     icon: 'images/icons/riobet.png'
@@ -471,7 +471,7 @@ Table Games'
        - item: usd
       descr: 
 
-  - casino: Bitsler
+  - title: Bitsler
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/bitsler'
     icon: 'images/icons/bitsler.png'
@@ -502,7 +502,7 @@ Table Games'
        - item: bitcoin
       descr: '& viele weitere Coins'
 
-  - casino: Betchan
+  - title: Betchan
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/betchan'
     icon: 'images/icons/betchan.png'
@@ -533,7 +533,7 @@ Table Games'
        - item: bitcoin
       descr: 
 
-  - casino: Primcedice
+  - title: Primcedice
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/primcedice'
     icon: 'images/icons/primcedice.png'
@@ -564,7 +564,7 @@ Table Games'
        - item: bitcoin
       descr: 
 
-  - casino: Bitcoin.com
+  - title: Bitcoin.com
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/bitcoin-com'
     icon: 'images/icons/bitcoin-com.png'
@@ -595,7 +595,7 @@ Table Games'
        - item: bitcoin
       descr: 
 
-  - casino: Megadice
+  - title: Megadice
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/megadice'
     icon: 'images/icons/megadice.png'
@@ -626,7 +626,7 @@ Table Games'
        - item: bitcoin
       descr: 
 
-  - casino: KingDice
+  - title: KingDice
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/kingdice'
     icon: 'images/icons/kingdice.png'
@@ -657,7 +657,7 @@ Table Games'
        - item: bitcoin
       descr: 
 
-  - casino: Coinbet24
+  - title: Coinbet24
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/coinbet24'
     icon: 'images/icons/coinbet24.png'
@@ -688,7 +688,7 @@ Table Games'
        - item: bitcoin
       descr: 
 
-  - casino: CryptoGames
+  - title: CryptoGames
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/cryptogames'
     icon: 'images/icons/cryptogames.png'
@@ -718,7 +718,7 @@ Table Games'
        - item: bitcoin
       descr: 
 
-  - casino: OneHash
+  - title: OneHash
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/onehash'
     icon: 'images/icons/onehash.png'
@@ -748,7 +748,7 @@ Table Games'
        - item: bitcoin
       descr: 
 
-  - casino: Bob Casino
+  - title: Bob Casino
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/bobcasino'
     icon: 'images/icons/bobcasino.png'
@@ -778,7 +778,7 @@ Table Games'
        - item: bitcoin
       descr: 
 
-  - casino: Oshi
+  - title: Oshi
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/oshi'
     icon: 'images/icons/oshi.png'
@@ -809,7 +809,7 @@ Table Games'
        - item: bitcoin
       descr: 
 
-  - casino: PocketDice
+  - title: PocketDice
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/pocketdice'
     icon: 'images/icons/cryptogames.png'
@@ -840,7 +840,7 @@ Table Games'
        - item: bitcoin
       descr: 
 
-  - casino: CoinRoyale
+  - title: CoinRoyale
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/coinroyale'
     icon: 'images/icons/coinroyale.png'
@@ -871,7 +871,7 @@ Table Games'
        - item: bitcoin
       descr: 
 
-  - casino: SafeDice
+  - title: SafeDice
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/safedice'
     icon: 'images/icons/sd.png'
@@ -902,7 +902,7 @@ Table Games'
        - item: bitcoin
       descr: '& Monero'
 
-  - casino: BTC-Casino.io
+  - title: BTC-Casino.io
     order: 1
     link: 'https://bitcoincasinodeutsch.de/get-bonus/bitcoin-casino.io'
     icon: 'images/icons/bitcoin-casino-io.png'
