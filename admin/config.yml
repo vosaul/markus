@@ -66,6 +66,58 @@ collections:
                   - {label: "currency", name: "currency", widget: "string", default: "bitcoin"}
                   - {label: "descr", name: "descr", widget: "string"}
 
+      - name: "data"
+        label: "Data"
+        file: "_data/data.yml"
+        fields:
+          - label: "casino"
+            name: "Casino"
+            widget: "list"
+            allow_add: true
+#            create: true
+            fields:
+              - { label: "casino", name: "casino", widget: "string"}
+              - { label: "order", name: "order", widget: "number", default: 1, valueType: "int", step: 1 }
+              - { label: "link", name: "link", widget: "string"}
+              - { label: "icon", name: "icon", widget: "image"}
+              - { label: "services", name: "services", widget: "string"}
+              - label: "languages"
+                name: "languages"
+                widget: "object"
+                fields:
+                  - {label: "icon", name: "icon", widget: "string", default: "remove"}
+                  - {label: "list", name: "list", widget: "string", default: "remove"}
+              - label: "support"
+                name: "support"
+                widget: "object"
+                fields:
+                  - {label: "icon", name: "icon", widget: "string", default: "remove"}
+                  - {label: "descr", name: "descr", widget: "string"}
+              - label: "bcd_raiting"
+                name: "bcd_raiting"
+                widget: "object"
+                fields:
+                  - {label: "value", name: "value", widget: "number", valueType: "int", min: 1, max: 100}
+                  - {label: "descr", name: "descr", widget: "string"}
+              - label: "max_bonus"
+                name: "max_bonus"
+                widget: "object"
+                fields:
+                  - {label: "value", name: "value", widget: "string", default: "1 BTC"}
+                  - {label: "descr", name: "descr", widget: "string"}
+              - label: "provably_fair"
+                name: "provably_fair"
+                widget: "object"
+                fields:
+                  - {label: "icon", name: "icon", widget: "string", default: "thumbs-up"}
+                  - {label: "descr", name: "descr", widget: "string"}
+              - label: "auszahlung"
+                name: "auszahlung"
+                widget: "object"
+                fields:
+                  - {label: "currency", name: "currency", widget: "string", default: "bitcoin"}
+                  - {label: "descr", name: "descr", widget: "string"}
+
       - name: "review"
         label: "Reviews"
         folder: "/"
