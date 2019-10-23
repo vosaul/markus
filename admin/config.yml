@@ -71,8 +71,8 @@ collections:
         label: "Data"
         file: "_data/data.yml"
         fields:
-          - label: "casino"
-            name: "Casino"
+          - label: "Casinos"
+            name: "casinos"
             widget: "list"
             allow_add: true
 #            create: true
