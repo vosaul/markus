@@ -5,7 +5,7 @@ Casino:
     bcd_raiting:
       descr: 'Die besten casino Games, A+++ Support'
       value: 80
-    casino: CryptoWild
+    casino: BetChain
     icon: /images/uploads/betchain.png
     languages:
       icon: ok
@@ -22,3 +22,26 @@ Casino:
     support:
       descr: support@cryptowild.com
       icon: ok
+  - auszahlung:
+      currency: bitcoin
+      descr: 'Slots, Spielautomaten, Video-Poker, Jackpot-Games'
+    bcd_raiting:
+      descr: 'Slots, Spielautomaten, Video-Poker, Jackpot-Games'
+      value: 95
+    casino: BetChain
+    icon: /images/uploads/betchain.png
+    languages:
+      icon: remove
+      list: 'Slots, Spielautomaten, Video-Poker, Jackpot-Games'
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/betchain'
+    max_bonus:
+      descr: 'Slots, Spielautomaten, Video-Poker, Jackpot-Games'
+      value: 1 BTC
+    order: 1
+    provably_fair:
+      descr: 'Slots, Spielautomaten, Video-Poker, Jackpot-Games'
+      icon: thumbs-up
+    services: 'Slots, Spielautomaten, Video-Poker, Jackpot-Games'
+    support:
+      descr: 'Slots, Spielautomaten, Video-Poker, Jackpot-Games'
+      icon: remove
