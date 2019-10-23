@@ -9,7 +9,8 @@ backend:
   name: github
   repo: vosaul/markus
 media_folder: "images/icons"
-public_folder: "images/uploads"
+public_folder: "images/icons"
+publish_mode: editorial_workflow
 collections:
   - label: "Pages"
     name: "pages"
