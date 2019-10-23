@@ -77,7 +77,7 @@ collections:
             allow_add: true
 #            create: true
             fields:
-              - { label: "casino", name: "casino", widget: "string"}
+              - { label: "title", name: "title", widget: "string"}
               - { label: "order", name: "order", widget: "number", default: 1, valueType: "int", step: 1 }
               - { label: "link", name: "link", widget: "string"}
               - { label: "icon", name: "icon", widget: "image"}
