@@ -45,3 +45,27 @@ Casino:
       descr: 'Live-casino, Sportwetten, Slots, Dice, Games, Virtual Sports'
       icon: remove
     title: CryptoWild
+   - auszahlung:
+      currency: bitcoin
+      descr: 'Live-casino, Sportwetten, Slots, Dice, Games, Virtual Sports'
+    bcd_raiting:
+      descr: 'Live-casino, Sportwetten, Slots, Dice, Games, Virtual Sports'
+      value: 89
+    icon: /images/icons/cryptowild.png
+    languages:
+      icon: remove
+      list: remove
+    link: 'https://bitcoincasinodeutsch.de/get-bonus/cryptowild'
+    max_bonus:
+      descr: 'Live-casino, Sportwetten, Slots, Dice, Games, Virtual Sports'
+      value: 1 BTC
+    order: 1
+    provably_fair:
+      descr: 'Live-casino, Sportwetten, Slots, Dice, Games, Virtual Sports'
+      icon: thumbs-up
+    services: 'Live-casino, Sportwetten, Slots, Dice, Games, Virtual Sports'
+    support:
+      descr: 'Live-casino, Sportwetten, Slots, Dice, Games, Virtual Sports'
+      icon: remove
+    title: NewCasino
+
