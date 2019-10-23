@@ -45,7 +45,7 @@ Casino:
       descr: 'Live-casino, Sportwetten, Slots, Dice, Games, Virtual Sports'
       icon: remove
     title: CryptoWild
-   - auszahlung:
+  - auszahlung:
       currency: bitcoin
       descr: 'Live-casino, Sportwetten, Slots, Dice, Games, Virtual Sports'
     bcd_raiting:
