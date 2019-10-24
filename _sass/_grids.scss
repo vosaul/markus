@@ -168,28 +168,14 @@ ul {
     grid-template-columns: 1fr;
     gap: 10px;
   }
-}
-@media screen and (max-width: 414px) {
-  .casinos_grid {
-    gap: 5px;
-  }
-  .casino_item {
-    grid-template-columns: 1fr;
-    .casino_title {
-      grid-column: 1;
-    }
-    .join {
+     .join {
+    text-align: center;
     position: relative;
     bottom: 20px;
+    width: 60%;
     right: 0;
     }
-  }
-  .site-title {
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 30px;
-  }
-  span,
+     span,
   p,
   h1,
   h2,
@@ -206,4 +192,21 @@ ul {
   .footer-col * {
     padding: 0 10px;
   }
+}
+@media screen and (max-width: 414px) {
+  .casinos_grid {
+    gap: 5px;
+  }
+  .casino_item {
+    grid-template-columns: 1fr;
+    .casino_title {
+      grid-column: 1;
+    }
+  }
+  .site-title {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+  }
+ 
 }
