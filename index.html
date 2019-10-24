@@ -4,56 +4,62 @@ layout: default
 <div class="home">
   <h1>{{site.data.main.title}}</h1>
   <div class="casinos_grid">
-    <div class="casino casinos_header">
-      {% for title in site.data.main.casinos_header %}
-      <h5>{{title.item}}</h5>
-      {% endfor %}
-    </div>
+    {% assign title = site.data.main.casinos_header %}
     {% assign casinos = site.data.main.casinos %}
     {% assign counter = 1 %}
     {% for casino in casinos %}
     <div class="casino casino_item">
+      <h2 class="casino_title"><a href="{{casino.link}}">{{casino.title}}</a></h2>
       <a href="{{casino.link}}" class="icon"><img src="{{casino.icon}}" alt="casino"></a>
       <div class="services">
-        <h4><a href="{{casino.link}}">{{counter}}. {{casino.title}}</a></h4>
         <p>{{casino.services}}</p>
       </div>
       <div class="lang">
+        <h3>{{title[2].item}}</h3>
         <span class="glyphicon glyphicon-{{casino.languages.icon}}" aria-hidden="true"></span>
         <p>{{casino.languages.list}}</p>
       </div>
       <div class="support">
+        <h3>{{title[3].item}}</h3>
         <span class="glyphicon glyphicon-{{casino.support.icon}}" aria-hidden="true"></span>
         <p>{{casino.support.descr}}</p>
       </div>
       <div class="bcd_raiting">
+        <h3>{{title[4].item}}</h3>
         <p>{{casino.bcd_raiting.value}}%</p>
         <p>{{casino.bcd_raiting.descr}}</p>
       </div>
       <div class="max_bonus">
+        <h3>{{title[5].item}}</h3>
         <p>{{casino.max_bonus.value}} BTC</p>
         <p>{{casino.max_bonus.descr}}</p>
       </div>
       <div class="provably_fair">
+        <h3>{{title[6].item}}</h3>
         <span class="glyphicon glyphicon-{{casino.provably_fair.icon}}" aria-hidden="true"></span>
         <p>{{casino.provably_fair.descr}}</p>
       </div>
       <div class="auszahlung">
+        <h3>{{title[7].item}}</h3>
         {% for currency in casino.auszahlung.currency %}
         <span class="glyphicon glyphicon-{{currency.item}}" aria-hidden="true"></span>
         {% endfor %}
         <p>{{casino.auszahlung.descr}}</p>
       </div>
+            <a href="{{casino.link}}" class="join">Try now</a>
     </div>
+    {% if counter < 5 %}
     {% assign counter = counter | plus: 1 %}
+    {% else %}
+    {% assign counter = 1 %}
+    {% endif %}
     {% endfor %}
   </div>
 
-  <hr>
 
   <section class="reviews">
     <h2>Testberichte:</h2>
-    <ul class="casino">
+    <ul class="casino_list">
       {% assign reviews = site.pages | where: "layout", "casino" %}
       {%- for file in reviews -%}
       {% if file.tags contains 'pocker' %}
@@ -65,15 +71,15 @@ layout: default
   </section>
 
   <h2>Bitcoin-Poker-Plattformen</h2>
-  Der einzige <strong>BTC-Pokerraum-Anbieter</strong>, den wir aktuell mit gutem Gewissen empfehlen können:
+  <p>Der einzige <strong>BTC-Pokerraum-Anbieter</strong>, den wir aktuell mit gutem Gewissen empfehlen können:</p>
   <ul>
-        {%- for file in reviews -%}
-        {% if file.tags contains 'pocker' %}
-        <li><a href="{{file.permalink}}">{{file.title}}</a></li>
-        {% endif %}
-        {%- endfor -%}
+    {%- for file in reviews -%}
+    {% if file.tags contains 'pocker' %}
+    <li><a href="{{file.permalink}}">{{file.title}}</a></li>
+    {% endif %}
+    {%- endfor -%}
   </ul>
-{{site.tags.pocker}}
+  {{site.tags.pocker}}
 
   <h2>Bitcoin-Casino-News:</h2>
 

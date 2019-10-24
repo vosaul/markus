@@ -10,7 +10,7 @@
     position: sticky;
     top: 0;
     z-index: 10;
-    background: #ddd;
+    background: rgb(29, 22, 22);
 }
 
 .site-title {
@@ -23,7 +23,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: #eee;
     }
 }
 
@@ -36,12 +36,16 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: #aaa;
         line-height: $base-line-height;
         font-weight: 700;
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 20px;
+        }
+        &:hover {
+            text-decoration: none;
+            color: #fff;
         }
     }
 
@@ -96,9 +100,8 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
-    background: #ddd;
+    background: rgb(32, 24, 24);
 }
 
 .footer-heading {
@@ -168,6 +171,11 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    background-image: linear-gradient(rgba(244, 244, 255, 0.9), rgba(255, 255, 244, 0.9)), url("/images/bg/roulette-1003120_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+    background-attachment: fixed;
 }
 
 .post-list {
