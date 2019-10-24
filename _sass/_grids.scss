@@ -175,6 +175,12 @@ ul {
     .casino_title {
       grid-column: 1;
     }
+    .join {
+    display: block;
+    position: relative;
+    bottom: 20px;
+    right: 0;
+    }
   }
   .site-title {
     font-weight: 700;
