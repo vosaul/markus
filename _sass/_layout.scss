@@ -10,7 +10,9 @@
     position: sticky;
     top: 0;
     z-index: 10;
-    background: rgb(29, 22, 22);
+    //background: rgb(29, 22, 22);
+    background: url("/images/bg/top.jpg");
+    background-size: cover;
 }
 
 .site-title {
