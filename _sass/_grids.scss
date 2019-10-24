@@ -90,6 +90,9 @@ ul {
   border-image-width: 100%;
   &:hover {
     background-blend-mode: hard-light;
+    img {
+      opacity: 0.1;
+    }
   }
   &:nth-child(n) {
     background-image: linear-gradient(rgba(5, 5, 36, 0.5), rgba(61, 18, 22, 0.6)), url("../images/bg/1.png");
@@ -129,7 +132,7 @@ ul {
     top: 0;
     left: 0;
     z-index: 0;
-    opacity: 0.6;
+    opacity: 0.4;
   }
 }
 
