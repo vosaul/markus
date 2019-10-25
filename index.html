@@ -5,7 +5,7 @@ layout: default
   <h1>{{site.data.main.title}}</h1>
   <div class="casinos_grid">
     {% assign title = site.data.main.casinos_header %}
-    {% assign casinos = site.data.main.casinos %}
+    {% assign casinos = site.data.main.casinos | sort: "order" %}
     {% assign counter = 1 %}
     {% for casino in casinos %}
     <div class="casino casino_item">
@@ -15,34 +15,34 @@ layout: default
         <p>{{casino.services}}</p>
       </div>
       <div class="lang">
-        <h3>{{title[2].item}}</h3>
-        <span class="glyphicon glyphicon-{{casino.languages.icon}}" aria-hidden="true"></span>
+        <h3>{{title[2].item}} <i class="fas fa-{{casino.support.icon}}"></i></h3>
         <p>{{casino.languages.list}}</p>
       </div>
       <div class="support">
-        <h3>{{title[3].item}}</h3>
-        <span class="glyphicon glyphicon-{{casino.support.icon}}" aria-hidden="true"></span>
+        <h3>{{title[3].item}} <i class="fas fa-{{casino.support.icon}}"></i></h3>
         <p>{{casino.support.descr}}</p>
       </div>
       <div class="bcd_raiting">
-        <h3>{{title[4].item}}</h3>
-        <p>{{casino.bcd_raiting.value}}%</p>
+        <h3>{{title[4].item}}: {{casino.bcd_raiting.value}}%</h3>
         <p>{{casino.bcd_raiting.descr}}</p>
       </div>
       <div class="max_bonus">
-        <h3>{{title[5].item}}</h3>
-        <p>{{casino.max_bonus.value}} BTC</p>
+        <h3>{{title[5].item}}:</h3>
+        <p>{{casino.max_bonus.value}}</p>
         <p>{{casino.max_bonus.descr}}</p>
       </div>
       <div class="provably_fair">
-        <h3>{{title[6].item}}</h3>
-        <span class="glyphicon glyphicon-{{casino.provably_fair.icon}}" aria-hidden="true"></span>
+        <h3>{{title[6].item}} <i class="fas fa-{{casino.provably_fair.icon}}"></i></h3>
         <p>{{casino.provably_fair.descr}}</p>
       </div>
       <div class="auszahlung">
         <h3>{{title[7].item}}</h3>
         {% for currency in casino.auszahlung.currency %}
-        <span class="glyphicon glyphicon-{{currency.item}}" aria-hidden="true"></span>
+        {% if currency.item == "btc" %}
+        <i class="fab fa-{{currency.item}}"></i>
+        {% else %}
+        <i class="fas fa-{{currency.item}}-sign"></i>
+        {% endif %}
         {% endfor %}
         <p>{{casino.auszahlung.descr}}</p>
       </div>

@@ -1,19 +1,19 @@
 h1 {
   font-weight: 800;
-  font-size: 4em;
+  font-size: 50px;
   color: darkslateblue;
 }
 h2 {
   font-weight: 700;
-  font-size: 1.8em;
+  font-size: 24px;
 }
 ul {
   list-style-type: none;
-  font-size: 1.5em;
+  font-size: 20px;
 }
 .casinos_grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 20px;
 }
 .casino {
@@ -29,7 +29,7 @@ ul {
     grid-column: 1/3;
     z-index: 5;
     a {
-      font-size: 2.5em;
+      font-size: 30px;
       color: cornflowerblue;
       &:hover {
         color: #20e20e;
@@ -44,7 +44,7 @@ ul {
     height: max-content;
     width: max-content;
     background: #e40b0b;
-    font-size: 1.1em;
+    font-size: 16px;
     line-height: 1;
     font-weight: 600;
     text-shadow: none;
@@ -70,7 +70,7 @@ ul {
   z-index: 5;
   h5 {
     color: #fff;
-    font-size: 1.1em;
+    font-size: 16px;
     font-weight: 700;
     a {
       &:hover {
@@ -113,12 +113,13 @@ ul {
     color: #eee;
     text-shadow: 2px 7px 4px #000;
     z-index: 1;
-    font-size: 1em;
+    font-size: 14px;
     line-height: 1.1;
   }
   h3,
   h3 a {
-    font-size: 20px;
+    font-size: 18px;
+    letter-spacing: 0;
     color: rgb(184, 240, 167);
   }
   .icon {
@@ -160,7 +161,7 @@ ul {
     grid-template-columns: repeat(2, 1fr);
   }
   h1 {
-    font-size: 2em;
+    font-size: 28px;
   }
 }
 @media screen and (max-width: 500px) {

@@ -1,19 +1,20 @@
 ---
-layout: page
+layout: casino
 title: Provably Fair
 permalink: /provably-fair/
 ---
 
-Was bedeutet "provably fair"?
 
-Mit diesem Begriff ist ein Algorithmus gemeint, der sicherstellt, dass in Online-Casinos fair und ohne Abzocke gespielt wird.
+<h2>Qu'est-ce que signifie "provably fair"?</h2>
 
-Dies wird dadurch gewährleistet, dass Open Source alle Transaktionen transparent sind und nur echte Zufallsgeneratoren das Glücksspiel bestimmen. Dies wird technisch gesehen durch Zufallszahlen-Generatoren und Random Seed Generators gewährleistet.
+Ce terme se réfère à un algorithme qui garantit que les casinos en ligne jouent équitablement et sans arnaques.
 
-Damit ist nicht einmal mehr die Überprüfung durch Dritte nötig, da es sich bei den spielbestimmenden Signalen offenkundig um reale Zufallszahlen handelt.
+Ceci est garanti par le fait que toutes les transactions open source sont transparentes et que seuls de véritables générateurs aléatoires déterminent le jeu. Techniquement, cela est garanti par des générateurs de nombres aléatoires et des générateurs de semences aléatoires.
 
-Ist ein Bitcoin Casino als "provably fair" gekennzeichnet, so ist eine Manipulation oder für das Casino vorteilhafte Vergabe der Signale (Slot-Bilder, Pokerkarten, Lottozahlen, etc) ausschließbar und Sie können mit einem guten Gefühl spielen.
+Cela signifie qu'il n'est même plus nécessaire de faire contrôler les signaux par des tiers, puisque les signaux de jeu sont évidemment de vrais nombres aléatoires.
 
-Ist ein Bitcoin Casino nicht als "provably fair" gekennzeichnet, sehen Sie genau hin, wo das Casino betrieben wird, wer der Betreiber ist und ob es auf Plattformen wie dieser hier gelistet ist. Vertrauen sie auf keinem Fall kleinen Anbietern, deren Name nicht oder nur kaum bekannt ist. Gerade im Bitcoin-Sektor tummeln sich Betrüger, die die Anonymität der Bitcoins ausnutzen will.
+Si un Bitcoin Casino est marqué comme étant "assez juste", la manipulation ou l'attribution de signaux (images fentes, cartes de poker, numéros de loterie, etc.) qui sont avantageux pour le casino peut être exclue et vous pouvez jouer avec un bon feeling.
 
-Mit den hier empfohlenen BTC-Spielbanken sind Sie auf jeden Fall auf der sicheren Seite.
+Si un casino Bitcoin n'est pas marqué comme étant "juste", regardez de plus près où le casino est exploité, qui est l'opérateur et s'il est répertorié sur des plateformes comme celle-ci. Ne faites pas confiance à de petits prestataires dont le nom n'est pas connu ou peu connu. Les fraudeurs qui veulent exploiter l'anonymat des Bitcoins font cavalier seul dans le secteur des Bitcoins.
+
+Avec les casinos BTC recommandés ici, vous êtes définitivement du bon côté.

@@ -1,21 +1,21 @@
 ---
 layout: casino
 title: Bitstarz
-permalink: /bitstarz-erfahrungen-test-betrug-oder-serios/
+permalink: /bitstarz/
 ---
 
-<strong>Bitstarz</strong> hieß früher Bitstars und ist ein relativ bekanntes und angesehenes Bitcoin-Casino.
+<strong>Bitstarz</strong> s'appelait autrefois Bitstars et est un casino Bitcoin relativement bien connu et respecté.
 
-<strong>tl;dr (too long, did not read)</strong>: Bitstarz arbeitet sauber und basiert nicht auf Betrug. Es wird nach dem offiziell anerkannten "<a href="http://bitcoincasinodeutsch.de/provably-fair/">Provably fair</a>"-Prinzip betrieben und ist damit eindeutig kein Betrug, keine Abzocke und als seriöses Online-Casino mit BTC-Einzahlung und BTC-Auszahlung einzustufen.
+<strong>tl;dr (trop longue, n' a pas lu)</strong>: Bitstarz fonctionne proprement et n'est pas basée sur la fraude. Il est exploité selon le principe officiellement reconnu "<a href="http://www.casinobtc.fr/provably-fair/">Provably fair</a>"-principe et n'est donc clairement aucune fraude, aucune escroquerie et un casino en ligne sérieux avec dépôt BTC et paiement BTC.
 
-<strong>Verfügbare Sprachen der Plattform</strong>: Das Bitcoin-Casino ist auf Englisch und Schwedisch verfügbar. Dies gilt sowohl für die Plattform, als auch für den Website-Bereich mit FAQ und Hilfe-Sektor.
+<strong>Langues disponibles de la plate-forme</strong>: Le casino Bitcoin est disponible en anglais et suédois. Ceci s'applique aussi bien à la plate-forme qu' à la zone du site Web avec FAQ et rubrique d'aide.
 
-<strong>Verfügbare Währungen bei Einzahlungen und Auszahlungen</strong>: als digitale Währung können Spieler mit BTC (Bitcoin) einzahlen. Auch die Auszahlung bei Bitstarz kann in BTC stattfinden. Zusätzlich werden für Ein- und Auszahlungen <span style="font-size: 12pt;">EUR/USD/GBP/</span><span style="font-size: 12pt;">AUD/SEK/NOK/CAD akzeptiert.</span>
+<strong>Monnaie forte>Monnaie disponible sur les dépôts et retraits</strong>: en tant que monnaie numérique, les joueurs peuvent déposer auprès de la CTB (Bitcoin). Le paiement chez Bitstarz peut également avoir lieu chez BTC. De plus, le EUR/USD/GBP/AUD/SEK/SEK/NOK/NOK/CAD sont acceptés pour les dépôts et les retraits.
 
-<strong>Standort des Anbieters</strong>: Curaçao auf den Niederländische Antillen ist steuerlich und rechtlich sicherlich vorteilhafter, als zum Beispiel Berlin. Viele seriöse Bitcoin-Casinos haben ihren Sitz auf den Niederländischen Antillen und dies ist nicht von vornherein als rein negativ zu bewerten.
+<strong>L'implantation du prestataire</strong>: Curaçao aux Antilles néerlandaises est certainement plus avantageuse sur le plan fiscal et juridique que Berlin par exemple. De nombreux casinos Bitcoin réputés sont basés aux Antilles néerlandaises et cela ne doit pas être considéré dès le départ comme une situation purement négative.
 
-<strong>Bonus bei Bitstarz</strong>: Der maximale Einzahlungsbonus beträgt einen Bitcoin (1 BTC) und es gibt 100% für die Ersteinzahlung. Zusätzlich kann man sich als Einzahlungsbonus 180 kostenlose Spins am einarmigen Banditen sichern. Für Folgeeinzahlungen (Einzahlung 1 bis n) gibt es variable Boni, die tagesaktuell auf der Website eingesehen werden können. Insgesamt und vergleichbar stellt Bitstarz ein relativ gutes Bonusangebot bereit.
+<strong>Bonus à Bitstarz</strong>: Le bonus de dépôt maximum est d'un Bitcoin (1 BTC) et il y a 100% pour le premier dépôt. De plus, vous pouvez gagner 180 spins gratuits sur le bandit manchot comme bonus de dépôt. Pour les dépôts ultérieurs (dépôts 1 à n) il y a des bonus variables, qui peuvent être consultés quotidiennement sur le site web. Bitstarz offre une offre de bonus relativement bonne dans l'ensemble et comparable.
 
-<strong>Provably fair?</strong> Bitstarz (früher: Bitstars) ist offiziell als “Provably fair” geprüft worden. Gemeinsam mit dem guten Ruf des Casinos lässt sich damit festhalten: Bitstarz ist definitiv kein Betrug oder Abzocke. Die Seriösität können wir aus Erfahrungen und einem Test bestätigen.
+<strong>Provably fair</strong>: Avec la bonne réputation du casino, il est facile de se souvenir: Bitstarz n'est certainement pas une arnaque ou une escroquerie. Nous pouvons confirmer le sérieux de notre travail par l'expérience et un test.
 
-<a class="btn btn-primary" href="https://bitcoincasinodeutsch.de/get-bonus/bitstarz" rel="nofollow" target="_blank">Jetzt Bonus bei Bitstarz erhalten</a>
+<a class="btn btn-primary" href="https://www.casinobtc.fr/obtenir-bonus/bitstarz" rel="nofollow" target="_blank">Jour Bitstarz</a>

@@ -1,21 +1,19 @@
 ---
 layout: casino
 title: Bitcasino.io
-permalink: /bitcasino-io-erfahrungen-test-betrug-oder-serios/
+permalink: /bitcasino-io/
 ---
 
-<strong>Bitcasino.io</strong> ist als einer der bekanntesten Anbieter am Markt seit langem im Fokus von Spielern und Neuspielern. Ob das Bitcoin-Casino legitim und sauber arbeitet, dem "Provably fair"-Modell folgt oder reine Abzocke, Betrug und als unseriös einzustufen ist, soll im folgenden Test erläutert werden.
+<strong>Bitcasino.io</strong> est l'un des acteurs les plus connus et de nouveaux acteurs sur le marché. Si le Bitcoin Casino est légitime et propre, suit le modèle prouvé équitable ou est pure arnaque, la fraude et doit être classé comme douteux, le test suivant expliquera.
 
-<strong>tl;dr (too long, did not read)</strong>: Bitcasino.io arbeitet sauber und basiert nicht auf Betrug. Durch die Einsehbarkeit und Transparenz ist gutes Spielen mit ruhigem Gewissen möglich.
+<strong>tl;dr (trop longue, n' a pas lu)</strong>: Bitcasino. io fonctionne proprement et n'est pas basée sur la fraude. La visibilité et la transparence permettent de bien jouer avec la conscience tranquille.
 
-<strong>Verfügbare Sprachen der Plattform</strong>: Das Bitcoin-Casino ist in <span style="font-size: 12pt;">Englisch, Polnisch, </span><span style="font-size: 12pt;">Spanisch, Italienisch, Chinesisch, </span><span style="font-size: 12pt;">Arabisch, Indonesisch und Japanisch vorhanden und verwendbar.</span>
+<strong>Monnaie disponible sur les dépôts et retraits</strong>: en tant que monnaie numérique, les joueurs peuvent déposer auprès de la CTB (Bitcoin). Le paiement chez Bitcasino.io se fait également exclusivement en BTC.
 
-<strong>Verfügbare Währungen bei Einzahlungen und Auszahlungen</strong>: als digitale Währung können Spieler mit BTC (Bitcoin) einzahlen. Auch die Auszahlung bei Bitcasino.io findet ausschließlich in BTC statt.
+<strong>Localisation du prestataire</strong>: Curaçao sur les Antilles néerlandaises est certainement plus avantageuse d'un point de vue fiscal que Francfort-sur-le-Main, par exemple. Beaucoup de casinos Bitcoin réputés sont situés là et il n'est pas à être jugé comme négatif dès le début.
 
-<strong>Standort des Anbieters</strong>: Curaçao auf den Niederländische Antillen ist steuerlich sicherlich vorteilhafter, als zum Beispiel Frankfurt am Main. Viele seriöse Bitcoin-Casinos haben dort ihren Sitz und es ist nicht von vornherein als negativ zu bewerten.
+<strong>Bonus à Bitcasino.io</strong>: Le bonus de dépôt maximum est d'un Bitcoin (1 BTC) et il y a 100% pour le premier dépôt. Le deuxième dépôt sera récompensé avec un bonus de 50%, tous les dépôts ultérieurs en argent réel recevront un bonus de 25% sur le montant du dépôt.
 
-<strong>Bonus bei Bitcasino.io</strong>: Der maximale Einzahlungsbonus beträgt einen Bitcoin (1 BTC) und es gibt 100% für die Ersteinzahlung. Die zweite Einzahlung wird noch mit 50% Bonus belohnt, alle darauf folgenden Echtgeldeinzahlungen erhalten ein Plus von 25% auf die Einzahlungssumme.
+<strong>Provably fair:</strong> Attention: Bitcasino. io n' a pas encore été testé officiellement comme "Provably fair". Cependant, la bonne réputation du casino garantit la sécurité nécessaire.
 
-<strong>Provably fair?</strong> Achtung: Bitcasino.io ist noch nicht offiziell als "Provably fair" geprüft worden. Der gute Ruf des Casinos gewährleistet jedoch die nötige Sicherheit.
-
-<a class="btn btn-primary" href="https://bitcoincasinodeutsch.de/get-bonus/bitcasino-io" rel="nofollow" target="_blank">Jetzt Bonus bei Bitcasino.io erhalten</a>
+<a class="btn btn-primary" href="https://www.casinobtc.fr/obtenir-bonus/bitcasino-io" rel="nofollow" target="_blank">Jour Bitcasino.io</a>

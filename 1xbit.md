@@ -1,74 +1,30 @@
 ---
 layout: casino
 title: 1xBit
-permalink: /1xbit-erfahrungen-test-betrug-oder-serios/
+permalink: /1xbit/
 ---
 
-<strong>1xBit</strong> ist eines der bekannteren Online-Spielhallen im deutschsprachigen Raum. Im folgenden Text findest Du unsere Erfahrungen aus unserem Test von 1xbit und ob es sich um einen vertrauenswürdigen Anbieter handelt. Hinter Bitcoin-Casinos steckt oftmals Betrug, Abzocke oder eben ein seriöses Angebot.
+<strong>1xBit</strong> est l'une des plus célèbres arcades en ligne dans les pays germanophones. Dans le texte suivant, vous trouverez nos expériences de notre examen de 1xbit et si c'est un fournisseur digne de confiance. Les casinos Bitcoin sont souvent le résultat d'une fraude, d'une escroquerie ou d'une offre sérieuse.
 
-<strong>tl;dr (too long, did not read)</strong>: mit über 3500 Spielen und Sportwetten ist 1xBit ein ernstzunehmender Anbieter im BTC-Casino-Bereich. Allerdings sind nur die Dice-Games "<a href="http://bitcoincasinodeutsch.de/provably-fair/">provably fair</a>". Insgesamt auf keinen Fall eine Abzockbude oder Betrug. Der Bonus beträgt maximal 1 BTC und ist immer 100% auf den Einzahlungsbetrag. Der eingezahlte Bonus muss 40x gespielt werden, um ihn zu erhalten.
+<strong>tl;dr (trop long, n' a pas lu)</strong>: avec plus de 3500 jeux et paris sportifs, 1xBit est un fournisseur sérieux dans le secteur des casinos BTC. Cependant, seuls les jeux de dés "<a href="http://www.casinobtc.fr/provably-fair/">provably fair (probablement fair)</a>". Au total, il n' y a pas de fraude ou d'escroquerie. Le bonus est de maximum 1 BTC et est toujours 100% sur le montant du dépôt. Le bonus de dépôt doit être joué 40 fois pour le recevoir.
 
-Offizielle Website: <strong><a href="https://bitcoincasinodeutsch.de/get-bonus/1xbit">https://1xbit.com</a></strong>
+<strong>Langues disponibles de la plate-forme</strong>: outre l'français, l'interface est disponible dans de nombreuses autres langues:
 
-1xbit Bonus Code: <strong>1xb_13012</strong> (125% / max. 1 BTC)
+1xbit Code Bonus: <strong>1xb_13015</strong> (125% / max. 1 BTC)
 
-<strong>Verfügbare Sprachen der Plattform</strong>: neben Deutsch ist die Oberfläche auf enorm vielen anderen Sprachen verfügbar:
+Site officiel: <a href="https://www.casinobtc.fr/obtenir-bonus/1xbit">https://1xbit.com</a>
 
-<a href="https://bitcoincasinodeutsch.de/get-bonus/1xbit"><img src="http://bitcoincasinodeutsch.de/images/1xbit-languages.jpg"></a>
+<a href="https://www.casinobtc.fr/obtenir-bonus/1xbit"><img src="http://www.casinobtc.fr/images/1xbit-langues.jpg"></a>
 
-<strong>Verfügbare Währungen bei Einzahlungen und Auszahlungen</strong>: nur Bitcoin.
+<strong>Monnaie disponible pour les dépôts et retraits</strong>: Bitcoin seulement.
 
-<strong>Standort des Anbieters</strong>: Russland (Betreiber, Support). Anhand der E-Mails lässt sich das nachvollziehen, da augenscheinlich ein russischsprachiges Outlook oder Thunderbird (E-Mail-Client) verwendet wird. Der offizielle Sitz und die Lizenz liegen jedoch in Curaçao.
+<strong>Situation du fournisseur</strong>: Russie (opérateur, support). Ceci peut être compris à partir des e-mails, puisqu'un Outlook ou Thunderbird russe (client e-mail) est apparemment utilisé. Le siège officiel et la licence, cependant, sont à Curaçao.
 
-<strong>Bonus bei 1xbit</strong>: Der maximale Einzahlungsbonus beträgt einen Bitcoin (1 BTC) bei 100% (gilt nur für die Ersteinzahlung). Dieser Bonus ist branchenüblich, jedoch finden Spieler bei 1xbit eine enorm große Auswahl an Spielmöglichkeiten. Dadurch wird der Bonus besonders attraktiv, da er nicht nur auf Slots oder Roulette fokussiert ist, sondern auch für <a href="https://bitcoincasinodeutsch.de/sportwetten/">BTC-Sportwetten</a> gilt. Damit hebt sich der Anbieter mit Sitz in Curaçao im Markt deutlich ab und zieht High Roller, sowie normaler Gambler und Zocker gleichermaßen an.
+<strong>1xbit</strong>: Le bonus de dépôt maximum est d'un bitcoin (1 BTC) à 100% (uniquement valable pour le premier dépôt). Ce bonus est la norme de l'industrie, mais à 1xbit les joueurs trouveront une énorme variété d'options de jeu. Cela rend le bonus particulièrement attractif, car il n'est pas seulement axé sur les machines à sous ou la roulette, mais s'applique également aux <a href="https://www.casinobtc.fr/paris-sportifs/">paris sportifs de la BTC</a>. Ainsi, le fournisseur basé à Curaçao se distingue clairement sur le marché et attire aussi bien les gros joueurs que les joueurs normaux et les joueurs ordinaires.
 
-Wir geben 1xbit eine sehr gute Bewertung, was Support, Spielvielfalt und Zuverlässigkeit in der Auszahlung anbetrifft.
+<strong>Provably fair?</strong> A 1xBit, seuls les jeux de dés sont "provably fair (prouvables justes)". Cependant, ceci n'est pas pertinent pour les paris sportifs et autres offres, puisqu'il ne s'agit pas de jeux de hasard, mais de jeux de paris d'événements réels. Ainsi, l'utilisateur peut parier à 1xbit sur les événements, sports et ligues suivants :
 
-<strong>Provably fair?</strong> Bei 1xBit sind nur die Dice-Spiele "provably fair". Allerdings ist das bei Sportwetten und weiteren Angeboten irrelevant, da es sich nicht um Glücksspiel, sondern Tippspiele realer Events handelt. So kann der User bei 1xbit auch auf folgende Events, Ereignisse, Sportarten und Ligen wetten:
+Bundesliga allemande / football, tennis, basket-ball, hockey sur glace, volley-ball, tennis de table, eSport, football américain, badminton, beach soccer, billard, pétanque, boxe / UFC, jeux de société (par ex. "Go"), Cricket, Curling, Curling, Fléchettes, Formule 1, Futsal 4x4, Football gaélique, Golf, Handball, Hurling, Kabaddi, Arts martiaux, Lotto, Motocyclisme, Netball, Course de chevaux (également Ante Post), Poker, Politique, Rugby, Snooker, Streetball, Surf, Jeux TV, Toto, Trotting (Ante Post), Trotting, Trotter, Floorball, Water Polo, Weather, Sighthound Racing
 
-Bundesliga / Fussball,
-Tennis,
-Basketball,
-Eishockey,
-Volleyball,
-Tischtennis,
-eSport,
-American Football,
-Badminton,
-Beachsoccer,
-Billard,
-Bowls,
-Boxen / UFC,
-Brettspiele (z.B. "Go"),
-Cricket,
-Curling,
-Darts,
-Formel 1,
-Futsal 4x4,
-Gaelic Football,
-Golf,
-Handball,
-Hurling,
-Kabaddi,
-Kampfsport,
-Lotto,
-Motorradsport,
-Netball,
-Pferderennen (auch Ante Post),
-Poker,
-Politik,
-Rugby,
-Snooker,
-Streetball,
-Surfen,
-TV-Spiele,
-Toto,
-Traben (Ante Post),
-Trabrennen,
-UFC,
-Unihockey,
-Wasserball,
-Wetter,
-Windhundrennen
+<a class="btn btn-primary" href="https://www.casinobtc.fr/obtenir-bonus/1xbit" rel="nofollow" target="_blank">Jour 1xBit</a>
 
-<a class="btn btn-primary" href="https://bitcoincasinodeutsch.de/get-bonus/1xbit" rel="nofollow" target="_blank">Jetzt Bonus bei 1xbit erhalten</a>

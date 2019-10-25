@@ -1,9 +1,9 @@
 # Site settings
-title: BitcoinCasinoDeutsch.de
+title: Bitcoin (BTC) Casinò italiani
 description: > # this means to ignore newlines until "baseurl:"
-  Testberichte, Meinungen und Erfahrungen rund um deutschsprachige Casinos, die Bitcoin akzeptieren
+  Bitcoin (BTC) Casinò italiani
 baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "https://bitcoincasinodeutsch.de" # the base hostname & protocol for your site
+#url: "https://www.btccasino.it" # the base hostname & protocol for your site
 #url: "http://localhost:4000"
 url: ""
 # Build settings
