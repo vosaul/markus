@@ -1,0 +1,63 @@
+---
+---
+.casinos_grid {
+   display: -ms-grid;
+  -ms-grid-columns:  1fr 10px 1fr 10px 1fr;
+}
+.casino_item:nth-child(3n-2) {
+   -ms-grid-column: 1;
+}
+.casino_item:nth-child(3n-1) {
+   -ms-grid-column: 3;
+}
+.casino_item:nth-child(3n) {
+   -ms-grid-column: 5;
+}
+.casino_item *:nth-child(n+1) {
+   -ms-grid-column: 1;
+}
+.casino_item *:nth-child(2n) {
+   -ms-grid-column: 2;
+}
+
+{% assign i = 1 %}
+{% assign k = 1 %}
+{% for casino in site.data.main.casinos %}
+.casino_item:nth-child({{i}}) {
+   -ms-grid-row: {{k}};
+}
+   {% assign i = i | plus: 1 %}
+
+.casino_item:nth-child({{i}}) {
+   -ms-grid-row: {{k}};
+}
+   {% assign i = i | plus: 1 %}
+
+.casino_item:nth-child({{i}}) {
+   -ms-grid-row: {{k}};
+
+   {% assign i = i | plus: 1 %}
+   {% assign k = k | plus: 1 %}
+}
+{% endfor %}
+
+{% assign i = 1 %}
+{% for item in site.data.main.casinos_header %}
+.casino_item >:nth-child({{i}}) {
+   -ms-grid-row: {{i}};
+}
+{% assign k = i | plus: 1 %}
+.casino_item >:nth-child({{k}}) {
+   -ms-grid-row: {{i}};
+   {% assign i = i | plus: 2 %}
+}
+{% endfor %}
+.casino_item .icon {
+      -ms-grid-row: 8;
+}
+.casino_item .casino_title {
+   -ms-grid-column: 1;
+   -ms-grid-column-span: 2;
+      -ms-grid-row: 1;
+      z-index: 1;
+}

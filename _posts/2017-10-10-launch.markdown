@@ -1,8 +1,0 @@
----
-layout: post
-title:  "CasinoBTC.fr Launch"
-date:   2017-10-10 11:11:11
-categories: news
----
-
-Launch CasinoBTC.fr

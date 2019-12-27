@@ -1,20 +1,19 @@
 ---
-layout: casino
+layout: page
 title: Provably Fair
 permalink: /provably-fair/
 ---
 
+<h2>Cosa significa "provably fair"?</h2>
 
-<h2>Qu'est-ce que signifie "provably fair"?</h2>
+Questo termine si riferisce ad un algoritmo che assicura che i casinò online giochino in modo equo e senza strappi.
 
-Ce terme se réfère à un algorithme qui garantit que les casinos en ligne jouent équitablement et sans arnaques.
+Questo è garantito dal fatto che tutte le transazioni open source sono trasparenti e solo i veri generatori casuali determinano il gioco d'azzardo. Ciò è tecnicamente garantito da generatori di numeri casuali e generatori di semi casuali.
 
-Ceci est garanti par le fait que toutes les transactions open source sont transparentes et que seuls de véritables générateurs aléatoires déterminent le jeu. Techniquement, cela est garanti par des générateurs de nombres aléatoires et des générateurs de semences aléatoires.
+Ciò significa che non è più necessario far controllare i segnali da terze parti, dato che i segnali di gioco sono ovviamente numeri casuali reali.
 
-Cela signifie qu'il n'est même plus nécessaire de faire contrôler les signaux par des tiers, puisque les signaux de jeu sont évidemment de vrais nombres aléatoires.
+Se un casinò Bitcoin Casino è contrassegnato come "provably fair (dimostrabilmente giusto)", la manipolazione o l' assegnazione di segnali (immagini delle fessure, carte da poker, numeri della lotteria, ecc.) che sono vantaggiosi per il casinò possono essere esclusi e si può giocare con un buon feeling.
 
-Si un Bitcoin Casino est marqué comme étant "assez juste", la manipulation ou l'attribution de signaux (images fentes, cartes de poker, numéros de loterie, etc.) qui sont avantageux pour le casino peut être exclue et vous pouvez jouer avec un bon feeling.
+Se un casinò Bitcoin Casino non è contrassegnato come "provably fair (dimostrabilmente giusto)", dare un' occhiata da vicino a dove il casinò è gestito, chi è l' operatore e se è elencato su piattaforme come questa. Non fidatevi di piccoli fornitori il cui nome non è noto o difficilmente conosciuto. I truffatori che vogliono sfruttare l' anonimato dei Bitcoins stanno cavalcando nel settore Bitcoin.
 
-Si un casino Bitcoin n'est pas marqué comme étant "juste", regardez de plus près où le casino est exploité, qui est l'opérateur et s'il est répertorié sur des plateformes comme celle-ci. Ne faites pas confiance à de petits prestataires dont le nom n'est pas connu ou peu connu. Les fraudeurs qui veulent exploiter l'anonymat des Bitcoins font cavalier seul dans le secteur des Bitcoins.
-
-Avec les casinos BTC recommandés ici, vous êtes définitivement du bon côté.
+Con i casinò BTC qui consigliati, siete sicuramente al sicuro.

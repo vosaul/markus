@@ -1,20 +1,21 @@
 ---
 layout: page
-title: Paris sportifs
-permalink: /paris-sportifs/
+title: Scommesse Sportive
+short_title: Scommesse Sportive
+permalink: /scomesse-sportive/
 ---
 
-Les prestataires de paris sportifs qui acceptent le bitcoin (BTC) comme moyen de paiement et de paiement et qui proposent un support francophone et/ou un site web francophone.
+Fornitori di scommesse sportive che accettano Bitcoin (BTC) come deposito e prelievo e offrono supporto in lingua italiana e/o un sito web italiano.
 
-<strong>1xbet</strong>
+#1 <strong><a href="https://www.btccasino.it/1xbit/">1xbit</a></strong>
 
-<strong>1xbit</strong>
+#2 <strong>1xbet</strong>
 
-<strong>Cloudbet</strong>
+#3 <strong>Cloudbet</strong>
 
 <strong>Betwinner</strong>
 
-<strong><strong>intertops</strong>
+<strong>interfacce</strong>
 
 <strong>1x2-Bet</strong>
 
@@ -24,7 +25,7 @@ Les prestataires de paris sportifs qui acceptent le bitcoin (BTC) comme moyen de
 
 <strong>NetBet</strong>
 
-<strong><strong>tonybet</strong>
+<strong>tonybet</strong>
 
 <strong>22bet</strong>
 
@@ -34,7 +35,7 @@ Les prestataires de paris sportifs qui acceptent le bitcoin (BTC) comme moyen de
 
 <strong>5dimes</strong>
 
-<strong>Nitrogensports</strong>
+<strong>Azoto sport</strong>
 
 <strong>Betcoin.ag</strong>
 
