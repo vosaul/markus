@@ -14,7 +14,7 @@ Casino:
     max_bonus:
       descr: asd
       value: 1 BTC
-    order: 500
+    order: 400
     provably_fair:
       descr: asdsa
       icon: thumbs-up
