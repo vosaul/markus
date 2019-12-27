@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: thenice777/germany
+  repo: vosaul/markus
 media_folder: "images/icons"
 public_folder: "images/icons"
 publish_mode: editorial_workflow
